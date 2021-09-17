@@ -1,8 +1,14 @@
 # TOC
+* [awk](#awk)
 * [json](#json)
 * [kind](#kind)
 * [python](#python)
 ---
+### awk
+
+- [How to clean up logs with Java Stack Traces in them](awk/trim-java-stack-trace-logs.md)
+
+
 ### json
 
 - [gron the grepper for json](json/gron-cli-utility.md)
