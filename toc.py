@@ -14,12 +14,12 @@ for d in data.keys():
 
 out.write("# TOC\n")
 for d in sorted(data.keys()):
-    out.write("* [{}](#{}]\n".format(d,d))
+    out.write("* [{}](#{})\n".format(d,d))
 
 out.write( "---\n" )
 
 for d in sorted(data.keys()):
     out.write("### {}\n\n".format(d))
     for e in data[d]:
-        out.write("- [{}]({})\n".format(e[0], e[1]) ) 
+        out.write("- [{}]({})\n".format(e[2], e[1]) ) 
     out.write("\n\n")
