@@ -4,9 +4,9 @@ you can use [chezmoi](https://github.com/twpayne/chezmoi/blob/master/docs/QUICKS
 
 
 ## Common commands
-* chezmoi edit ~/.vimrc  ( edit a file in the repo )
-* chezmoi apply  ( apply files in repo to your local filesystem ) 
-* chezmoi update ( pull changes from git and apply them )
+* `chezmoi edit` ~/.vimrc  ( edit a file in the repo )
+* `chezmoi apply`  ( apply files in repo to your local filesystem ) 
+* `chezmoi update` ( pull changes from git and apply them )
 
 ## Autopush changes to git
 add this:
