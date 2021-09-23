@@ -1,5 +1,6 @@
 # TOC
 * [awk](#awk)
+* [cli](#cli)
 * [json](#json)
 * [kind](#kind)
 * [prometheus_operator](#prometheus_operator)
@@ -8,6 +9,11 @@
 ### awk
 
 - [How to clean up logs with Java Stack Traces in them](awk/trim-java-stack-trace-logs.md)
+
+
+### cli
+
+- [Chezmoi dotfile manager](cli/chezmoi-dotfile-manager.md)
 
 
 ### json
