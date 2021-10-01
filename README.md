@@ -1,4 +1,5 @@
 # TOC
+* [ansible](#ansible)
 * [awk](#awk)
 * [cli](#cli)
 * [json](#json)
@@ -6,6 +7,11 @@
 * [prometheus_operator](#prometheus_operator)
 * [python](#python)
 ---
+### ansible
+
+- [Ansible console a repl for ansible](ansible/ansible-console.md)
+
+
 ### awk
 
 - [How to clean up logs with Java Stack Traces in them](awk/trim-java-stack-trace-logs.md)
