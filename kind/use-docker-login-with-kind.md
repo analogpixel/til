@@ -29,6 +29,13 @@ kubectl create secret docker-registry myregistrykey \
 
 to create the secret in kubernetes.
 
+## Consul
+in the consul helm image the setting is:
+```
+global:
+  imagePullSecrets:
+    - name: myregistrykey
+```
 
 ## Links
 * https://newbedev.com/prometheus-operator-helm-chart-code-example
