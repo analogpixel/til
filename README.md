@@ -6,6 +6,7 @@
 * [kind](#kind)
 * [prometheus_operator](#prometheus_operator)
 * [python](#python)
+* [zookeeper](#zookeeper)
 ---
 ### ansible
 
@@ -41,5 +42,10 @@
 ### python
 
 - [Converting a list to a dict](python/dict-from-list.md)
+
+
+### zookeeper
+
+- [Check if zookeeper is alive](zookeeper/check_alive.md)
 
 
