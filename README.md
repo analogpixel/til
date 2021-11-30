@@ -4,6 +4,7 @@
 * [cli](#cli)
 * [json](#json)
 * [kind](#kind)
+* [packer](#packer)
 * [prometheus_operator](#prometheus_operator)
 * [python](#python)
 * [zookeeper](#zookeeper)
@@ -32,6 +33,11 @@
 ### kind
 
 - [Using your Own docker login with Kind](kind/use-docker-login-with-kind.md)
+
+
+### packer
+
+- [Packer in a docker container](packer/ssh_auth_in_docker_container.md)
 
 
 ### prometheus_operator
