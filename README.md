@@ -54,7 +54,9 @@
 
 ### python
 
+- [Date and Time](python/date-time.md)
 - [Converting a list to a dict](python/dict-from-list.md)
+- [Formating Strings](python/format-strings.md)
 
 
 ### zookeeper
