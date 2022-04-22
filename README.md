@@ -24,6 +24,7 @@
 
 - [Remote pbcopy (remote data to local clipboard)](cli/remote-pbcopy.md)
 - [Chezmoi dotfile manager](cli/chezmoi-dotfile-manager.md)
+- [fzf](cli/fzf.md)
 
 
 ### json
