@@ -4,6 +4,7 @@
 * [cli](#cli)
 * [json](#json)
 * [kind](#kind)
+* [linux](#linux)
 * [packer](#packer)
 * [prometheus_operator](#prometheus_operator)
 * [python](#python)
@@ -33,6 +34,12 @@
 ### kind
 
 - [Using your Own docker login with Kind](kind/use-docker-login-with-kind.md)
+
+
+### linux
+
+- [Debugging an SSH conneciton](linux/debug-ssh-connection.md)
+- [Fix Corrupt RPM database](linux/fix-corrupt-rpm-database.md)
 
 
 ### packer
