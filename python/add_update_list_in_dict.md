@@ -5,9 +5,9 @@ has a list in it arlready you can:
 
 ```python
 mydict = {}
-post_group.setdefault( mydict['key_with_list'], [] ).append(post)
+mydict.setdefault( 'key_name', [] ).append(post)
 ```
 
-what this does is returns the dict value of the key 'key_with_list', but if
+what this does is returns the dict value of the key 'key_name', but if
 that key doesn't exist it return the default of `[]`, it then appends to that
 list.
