@@ -58,6 +58,7 @@
 - [Date and Time](python/date-time.md)
 - [Converting a list to a dict](python/dict-from-list.md)
 - [Formating Strings](python/format-strings.md)
+- [Add or Update to a list in a dict](python/add_update_list_in_dict.md)
 
 
 ### zookeeper
