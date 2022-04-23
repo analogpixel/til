@@ -2,6 +2,7 @@
 * [ansible](#ansible)
 * [awk](#awk)
 * [cli](#cli)
+* [javascript](#javascript)
 * [json](#json)
 * [kind](#kind)
 * [linux](#linux)
@@ -13,6 +14,7 @@
 ### ansible
 
 - [Ansible console a repl for ansible](ansible/ansible-console.md)
+- [Dump out all the host inventory](ansible/ansible-dump-host-inventory.md)
 
 
 ### awk
@@ -25,6 +27,11 @@
 - [Remote pbcopy (remote data to local clipboard)](cli/remote-pbcopy.md)
 - [Chezmoi dotfile manager](cli/chezmoi-dotfile-manager.md)
 - [fzf](cli/fzf.md)
+
+
+### javascript
+
+- [Code Between Imports](javascript/code-between-imports.md)
 
 
 ### json
