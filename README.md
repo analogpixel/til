@@ -25,8 +25,8 @@
 ### cli
 
 - [Remote pbcopy (remote data to local clipboard)](cli/remote-pbcopy.md)
-- [Select multiple items from list in fzf](cli/fzf-multiple-from-list.md)
-- [Return default value if user exits with esc/ctrl-c](cli/fzf-default-value-on-exit.md)
+- [FZF Select multiple items from list in fzf](cli/fzf-multiple-from-list.md)
+- [FZF Return default value if user exits with esc/ctrl-c](cli/fzf-default-value-on-exit.md)
 - [Chezmoi dotfile manager](cli/chezmoi-dotfile-manager.md)
 
 
