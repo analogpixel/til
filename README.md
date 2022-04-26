@@ -40,6 +40,7 @@
 
 ### git
 
+- [Detect if you are in git repo](git/detect_git_repo.md)
 - [get root directory of git repo](git/git-top-level.md)
 
 
