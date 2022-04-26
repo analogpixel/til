@@ -1,6 +1,7 @@
 # TOC
 * [ansible](#ansible)
 * [awk](#awk)
+* [bash](#bash)
 * [cli](#cli)
 * [git](#git)
 * [javascript](#javascript)
@@ -21,6 +22,11 @@
 ### awk
 
 - [How to clean up logs with Java Stack Traces in them](awk/trim-java-stack-trace-logs.md)
+
+
+### bash
+
+- [Loop till string is empty in bash](bash/loop_till_empty.md)
 
 
 ### cli
