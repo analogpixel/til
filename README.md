@@ -2,6 +2,7 @@
 * [ansible](#ansible)
 * [awk](#awk)
 * [cli](#cli)
+* [git](#git)
 * [javascript](#javascript)
 * [json](#json)
 * [kind](#kind)
@@ -28,6 +29,11 @@
 - [FZF Select multiple items from list in fzf](cli/fzf-multiple-from-list.md)
 - [FZF Return default value if user exits with esc/ctrl-c](cli/fzf-default-value-on-exit.md)
 - [Chezmoi dotfile manager](cli/chezmoi-dotfile-manager.md)
+
+
+### git
+
+- [get root directory of git repo](git/git-top-level.md)
 
 
 ### javascript
