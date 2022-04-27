@@ -12,6 +12,7 @@
 * [packer](#packer)
 * [prometheus_operator](#prometheus_operator)
 * [python](#python)
+* [web](#web)
 * [zookeeper](#zookeeper)
 ---
 ### ansible
@@ -86,6 +87,11 @@
 - [Converting a list to a dict](python/dict-from-list.md)
 - [Formating Strings](python/format-strings.md)
 - [Add or Update to a list in a dict](python/add_update_list_in_dict.md)
+
+
+### web
+
+- [CSS Selector Reference](web/css_selectors.md)
 
 
 ### zookeeper
