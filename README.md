@@ -69,6 +69,7 @@
 
 ### linux
 
+- [Debug systemd tmp cleaner](linux/debug-systemd-tmp-cleaner.md)
 - [Debugging an SSH conneciton](linux/debug-ssh-connection.md)
 - [Fix Corrupt RPM database](linux/fix-corrupt-rpm-database.md)
 
