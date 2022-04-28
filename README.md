@@ -74,7 +74,7 @@
 
 ### misc
 
-- [Stop coupons in your physical mailbox](misc/stop-coupon-mailers.md)
+- [How to Unsubscribe from ...](misc/unsubscribe-from.md)
 
 
 ### packer
