@@ -30,6 +30,7 @@
 ### bash
 
 - [Loop till string is empty in bash](bash/loop_till_empty.md)
+- [Yes/No Prompt in Bash](bash/yes_no_prompt.md)
 
 
 ### cli
