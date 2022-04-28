@@ -9,6 +9,7 @@
 * [kind](#kind)
 * [kubernetes](#kubernetes)
 * [linux](#linux)
+* [misc](#misc)
 * [packer](#packer)
 * [prometheus_operator](#prometheus_operator)
 * [python](#python)
@@ -69,6 +70,11 @@
 
 - [Debugging an SSH conneciton](linux/debug-ssh-connection.md)
 - [Fix Corrupt RPM database](linux/fix-corrupt-rpm-database.md)
+
+
+### misc
+
+- [Stop coupons in your physical mailbox](misc/stop-coupon-mailers.md)
 
 
 ### packer
