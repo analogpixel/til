@@ -43,9 +43,9 @@
 
 ### git
 
-- [restore a file from master](git/restore-file-from-master.md)
 - [Detect if you are in git repo](git/detect_git_repo.md)
 - [get root directory of git repo](git/git-top-level.md)
+- [revert a file from master](git/revert-file-from-master.md)
 
 
 ### javascript
