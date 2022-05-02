@@ -26,7 +26,7 @@ readinessProbe:
 
 Indicates whether the application within the container is started. All other probes are disabled if a startup probe is provided, until it succeeds. If the startup probe fails, the kubelet kills the container
 
-``yaml
+```yaml
 startupProbe:
   httpGet:
     path: /healthz
