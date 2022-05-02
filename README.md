@@ -35,11 +35,11 @@
 
 ### cli
 
+- [Chezmoi dotfile manager](cli/chezmoi-dotfile-manager.md)
+- [FZF Return default value if user exits with esc/ctrl-c](cli/fzf-default-value-on-exit.md)
+- [FZF Select multiple items from list in fzf](cli/fzf-multiple-from-list.md)
 - [FZF Only display certain columns](cli/fzf-only-display-x-col.md)
 - [Remote pbcopy (remote data to local clipboard)](cli/remote-pbcopy.md)
-- [FZF Select multiple items from list in fzf](cli/fzf-multiple-from-list.md)
-- [FZF Return default value if user exits with esc/ctrl-c](cli/fzf-default-value-on-exit.md)
-- [Chezmoi dotfile manager](cli/chezmoi-dotfile-manager.md)
 
 
 ### git
@@ -71,8 +71,8 @@
 
 ### linux
 
-- [Debug systemd tmp cleaner](linux/debug-systemd-tmp-cleaner.md)
 - [Debugging an SSH conneciton](linux/debug-ssh-connection.md)
+- [Debug systemd tmp cleaner](linux/debug-systemd-tmp-cleaner.md)
 - [Fix Corrupt RPM database](linux/fix-corrupt-rpm-database.md)
 
 
@@ -93,10 +93,10 @@
 
 ### python
 
+- [Add or Update to a list in a dict](python/add_update_list_in_dict.md)
 - [Date and Time](python/date-time.md)
 - [Converting a list to a dict](python/dict-from-list.md)
 - [Formating Strings](python/format-strings.md)
-- [Add or Update to a list in a dict](python/add_update_list_in_dict.md)
 
 
 ### web
