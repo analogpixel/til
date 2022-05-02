@@ -43,6 +43,7 @@
 ## Ssh
 - [SSH Debugging a conneciton](til/ssh-debug-connection.md)
 ## Systemd
+- [Systemd clean up journalctl logs](til/systemd-cleanup-journalctl-logs.md)
 - [Systemd Debug tmp cleaner](til/systemd-debug-tmp-cleaner.md)
 ## Zookeeper
 - [Zookeeper Check if alive](til/zookepper-check-alive.md)
