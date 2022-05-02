@@ -29,6 +29,7 @@
 ## Kubernetes
 - [Kubernetes explain](til/kubectl-explain.md)
 ## Misc
+- [Misc console markdown rendering](til/misc-mdv-console-markdown-rendering.md)
 - [Misc How to Unsubscribe from ...](til/misc-unsubscribe-from.md)
 ## Packer
 - [Packer in a docker container](til/ssh_auth_in_docker_container.md)
