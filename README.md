@@ -35,7 +35,7 @@
 
 ### cli
 
-- [Only display certain columns in fzf](cli/fzf-only-display-x-col.md)
+- [FZF Only display certain columns](cli/fzf-only-display-x-col.md)
 - [Remote pbcopy (remote data to local clipboard)](cli/remote-pbcopy.md)
 - [FZF Select multiple items from list in fzf](cli/fzf-multiple-from-list.md)
 - [FZF Return default value if user exits with esc/ctrl-c](cli/fzf-default-value-on-exit.md)

@@ -1,4 +1,4 @@
-# Only display certain columns in fzf
+# FZF Only display certain columns 
 
 * `-d` set the separator to look at
 * `--with-nth`  sets the columns you want to show up in the fzf list
