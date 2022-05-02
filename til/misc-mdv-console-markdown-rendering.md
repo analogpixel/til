@@ -2,7 +2,7 @@
 
 To view rendered markdwon on the console:
 
-```
+```bash
 pip install mdv
 mdv <filename>.md
 ```
