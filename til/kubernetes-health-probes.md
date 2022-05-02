@@ -1,4 +1,4 @@
-## Kubernetes health probes
+# Kubernetes health probes
 
 ## Liveness Probe
 
