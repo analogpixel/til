@@ -1,5 +1,3 @@
-## #
-- [# Kubernetes health probes](til/kubernetes-health-probes.md)
 ## Ansible
 - [Ansible console a repl for ansible](til/ansible-console.md)
 - [Ansible Dump out all the host inventory](til/ansible-dump-host-inventory.md)
@@ -29,6 +27,7 @@
 ## Kind
 - [Kind Using your Own docker login with Kind](til/kind-use-docker-login.md)
 ## Kubernetes
+- [Kubernetes health probes](til/kubernetes-health-probes.md)
 - [Kubernetes explain](til/kubectl-explain.md)
 ## Misc
 - [Misc How to Unsubscribe from ...](til/misc-unsubscribe-from.md)
