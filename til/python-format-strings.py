@@ -1,4 +1,4 @@
-# Formating Strings
+# Python Formating Strings
 
 ## Zero pad a number
 Zero pad a number `print('{:03d}'.format(n))`

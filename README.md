@@ -1,111 +1,50 @@
 # TOC
-* [ansible](#ansible)
-* [awk](#awk)
-* [bash](#bash)
-* [cli](#cli)
-* [git](#git)
-* [javascript](#javascript)
-* [json](#json)
-* [kind](#kind)
-* [kubernetes](#kubernetes)
-* [linux](#linux)
-* [misc](#misc)
-* [packer](#packer)
-* [prometheus_operator](#prometheus_operator)
-* [python](#python)
-* [web](#web)
-* [zookeeper](#zookeeper)
+## Ansible
+- [Ansible console a repl for ansible](til/ansible-console.md)
+- [Ansible Dump out all the host inventory](til/ansible-dump-host-inventory.md)
+## Awk
+- [AWK How to clean up logs with Java Stack Traces in them](til/awk-trim-java-stack-trace-logs.md)
+## Bash
+- [Bash Yes/No Prompt](til/bash-yes-no-prompt.md)
+- [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
+## Chezmoi
+- [Chezmoi dotfile manager](til/chezmoi-dotfile-manager.md)
+## Cli
+- [CLI Remote pbcopy (remote data to local clipboard)](til/cli-remote-pbcopy.md)
+## Css
+- [CSS Selector Reference](til/css-selectors.md)
+## Fzf
+- [FZF Only display certain columns](til/fzf-only-display-x-col.md)
+- [FZF Select multiple items from list in fzf](til/fzf-multiple-from-list.md)
+- [FZF Return default value if user exits with esc/ctrl-c](til/fzf-default-value-on-exit.md)
+## Git
+- [Git Detect if you are in git repo](til/git-detect-in-repo.md)
+- [GIT revert a file from master](til/git-revert-file-from-master.md)
+- [GIT get root directory of repo](til/git-top-level.md)
+## Javascript
+- [Javascript Code Between Imports](til/javascript-code-between-imports.md)
+## Json
+- [JSON gron the grepper for json](til/json-gron-cli-utility.md)
+## Kind
+- [Kind Using your Own docker login with Kind](til/kind-use-docker-login.md)
+## Kubernetes
+- [Kubernetes explain](til/kubectl-explain.md)
+## Misc
+- [Misc How to Unsubscribe from ...](til/misc-unsubscribe-from.md)
+## Packer
+- [Packer in a docker container](til/ssh_auth_in_docker_container.md)
+## Prometheus-operator
+- [Prometheus-operator Pod Monitors vs. Service Monitors](til/kubernetes_operator-podmonitor-vs-servicemonitor.md)
+## Python
+- [Python Date and Time](til/python-date-time.md)
+- [Python Add or Update to a list in a dict](til/python-add_update_list_in_dict.md)
+- [Python Converting a list to a dict](til/python-dict-from-list.md)
+## Rpm
+- [RPM Fix Corrupt database](til/rpm-fix-corrupt-database.md)
+## Ssh
+- [SSH Debugging a conneciton](til/ssh-debug-connection.md)
+## Systemd
+- [Systemd Debug tmp cleaner](til/systemd-debug-tmp-cleaner.md)
+## Zookeeper
+- [Zookeeper Check if alive](til/zookepper-check-alive.md)
 ---
-### ansible
-
-- [Ansible console a repl for ansible](ansible/ansible-console.md)
-- [Dump out all the host inventory](ansible/ansible-dump-host-inventory.md)
-
-
-### awk
-
-- [How to clean up logs with Java Stack Traces in them](awk/trim-java-stack-trace-logs.md)
-
-
-### bash
-
-- [Loop till string is empty in bash](bash/loop_till_empty.md)
-- [Yes/No Prompt in Bash](bash/yes_no_prompt.md)
-
-
-### cli
-
-- [Chezmoi dotfile manager](cli/chezmoi-dotfile-manager.md)
-- [FZF Return default value if user exits with esc/ctrl-c](cli/fzf-default-value-on-exit.md)
-- [FZF Select multiple items from list in fzf](cli/fzf-multiple-from-list.md)
-- [FZF Only display certain columns](cli/fzf-only-display-x-col.md)
-- [Remote pbcopy (remote data to local clipboard)](cli/remote-pbcopy.md)
-
-
-### git
-
-- [Detect if you are in git repo](git/detect_git_repo.md)
-- [get root directory of git repo](git/git-top-level.md)
-- [revert a file from master](git/revert-file-from-master.md)
-
-
-### javascript
-
-- [Code Between Imports](javascript/code-between-imports.md)
-
-
-### json
-
-- [gron the grepper for json](json/gron-cli-utility.md)
-
-
-### kind
-
-- [Using your Own docker login with Kind](kind/use-docker-login-with-kind.md)
-
-
-### kubernetes
-
-- [kubernetes explain](kubernetes/kubectl_explain.md)
-
-
-### linux
-
-- [Debugging an SSH conneciton](linux/debug-ssh-connection.md)
-- [Debug systemd tmp cleaner](linux/debug-systemd-tmp-cleaner.md)
-- [Fix Corrupt RPM database](linux/fix-corrupt-rpm-database.md)
-
-
-### misc
-
-- [How to Unsubscribe from ...](misc/unsubscribe-from.md)
-
-
-### packer
-
-- [Packer in a docker container](packer/ssh_auth_in_docker_container.md)
-
-
-### prometheus_operator
-
-- [Pod Monitors vs. Service Monitors](prometheus_operator/podmonitor_vs_servicemonitor.md)
-
-
-### python
-
-- [Add or Update to a list in a dict](python/add_update_list_in_dict.md)
-- [Date and Time](python/date-time.md)
-- [Converting a list to a dict](python/dict-from-list.md)
-- [Formating Strings](python/format-strings.md)
-
-
-### web
-
-- [CSS Selector Reference](web/css_selectors.md)
-
-
-### zookeeper
-
-- [Check if zookeeper is alive](zookeeper/check_alive.md)
-
-

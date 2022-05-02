@@ -1,4 +1,4 @@
-# Detect if you are in git repo
+# Git Detect if you are in git repo
 
 ```bash
   if  git rev-parse --git-dir > /dev/null 2>&1; then

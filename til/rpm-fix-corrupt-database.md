@@ -1,4 +1,4 @@
-# Fix Corrupt RPM database
+# RPM Fix Corrupt database
 
 ```sh
 rm -f /var/lib/rpm/__db.00* ; rpm --rebuilddb

@@ -1,4 +1,4 @@
-# Debugging an SSH conneciton
+# SSH Debugging a conneciton
 
 ## open a debug connection
 this will start another ssh server on the host with debugging turned

@@ -1,4 +1,4 @@
-# Loop till string is empty in bash
+# Bash Loop till string is empty 
 
 ```bash
 doc="this/is/the/string/to/chop"

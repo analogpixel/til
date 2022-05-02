@@ -1,4 +1,4 @@
-# gron the grepper for json
+# JSON gron the grepper for json
 
 [gron](https://github.com/tomnomnom/gron)  can take something that looks like this:
 

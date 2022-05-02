@@ -1,4 +1,4 @@
-# Using your Own docker login with Kind
+# Kind Using your Own docker login with Kind
 
 when using kubernetes kind, sometimes you'll get a message along the lines of:
 

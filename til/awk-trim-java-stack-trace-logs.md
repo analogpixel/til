@@ -1,4 +1,4 @@
-# How to clean up logs with Java Stack Traces in them
+# AWK How to clean up logs with Java Stack Traces in them
 
 When you are looking at logs that have java stack traces, the traces can be hundreds of lines to scroll through,  so this awk comand
 will truncate the stack trace to only a few lines in the log file:

@@ -1,4 +1,4 @@
-# Yes/No Prompt in Bash
+# Bash Yes/No Prompt 
 
 ```bash
 read -p "Are you sure? " -n 1 -r

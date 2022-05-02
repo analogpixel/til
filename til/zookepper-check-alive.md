@@ -1,4 +1,4 @@
-# Check if zookeeper is alive
+# Zookeeper Check if alive
 
 to check if zookeeper is running and you can connect to it from your host you can run:
 

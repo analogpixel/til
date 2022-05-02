@@ -1,4 +1,4 @@
-# kubernetes explain
+# Kubernetes explain
 
 explain is used to describe the kubernetes api in more detail:
 
