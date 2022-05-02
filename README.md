@@ -36,6 +36,7 @@
 ## Prometheus-operator
 - [Prometheus-operator Pod Monitors vs. Service Monitors](til/kubernetes_operator-podmonitor-vs-servicemonitor.md)
 ## Python
+- [Python Change working directory (cwd)](til/python-change-working-directory.md)
 - [Python Date and Time](til/python-date-time.md)
 - [Python Add or Update to a list in a dict](til/python-add_update_list_in_dict.md)
 - [Python Converting a list to a dict](til/python-dict-from-list.md)
