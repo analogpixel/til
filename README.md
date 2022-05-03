@@ -4,6 +4,7 @@
 ## Awk
 - [AWK How to clean up logs with Java Stack Traces in them](til/awk-trim-java-stack-trace-logs.md)
 ## Bash
+- [Bash cycle through arguments](til/bash-cycle-through-arguments.md)
 - [Bash Yes/No Prompt](til/bash-yes-no-prompt.md)
 - [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
 ## Chezmoi
