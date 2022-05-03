@@ -28,6 +28,7 @@
 ## Kind
 - [Kind Using your Own docker login with Kind](til/kind-use-docker-login.md)
 ## Kubernetes
+- [kubernetes list all api resources in cluster](til/kubernetes-list-all-api-resources.md)
 - [Kubernetes health probes](til/kubernetes-health-probes.md)
 - [Kubernetes explain](til/kubectl-explain.md)
 ## Misc
