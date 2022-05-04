@@ -33,5 +33,47 @@ lifecycle:
 `.spec.terminationGracePerioudSeconds `  can set this time, but isn't always honored.
 
 
+## Init Containers
+
+* initContainers is an array; you can have many
+* Init containers always run to completion.
+* Each init container must complete successfully before the next one starts.
+* If a Pod's init container fails, the kubelet repeatedly restarts that init container until it succeeds. However, if the Pod has a restartPolicy of Never, and an init container fails during startup of that Pod, Kubernetes treats the overall Pod as failed.
+
+An example where the init container shares a volume with the other container 
+
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: init-demo
+spec:
+  containers:
+  - name: nginx
+    image: nginx
+    ports:
+    - containerPort: 80
+    volumeMounts:
+    - name: workdir
+      mountPath: /usr/share/nginx/html
+  # These containers are run during pod initialization
+  initContainers:
+  - name: install
+    image: busybox:1.28
+    command:
+    - wget
+    - "-O"
+    - "/work-dir/index.html"
+    - http://info.cern.ch
+    volumeMounts:
+    - name: workdir
+      mountPath: "/work-dir"
+  dnsPolicy: Default
+  volumes:
+  - name: workdir
+    emptyDir: {}
+```
+
 ## links
 * https://kubernetes.io/docs/tasks/configure-pod-container/attach-handler-lifecycle-event/
+* https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-initialization/#create-a-pod-that-has-an-init-container
