@@ -1,4 +1,4 @@
-# Kubernetes pod life cycle
+# Kubernetes pod life cycle start/stop hooks
 
 ## Start Hooks
 
