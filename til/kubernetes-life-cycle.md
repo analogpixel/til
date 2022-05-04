@@ -77,3 +77,4 @@ spec:
 ## links
 * https://kubernetes.io/docs/tasks/configure-pod-container/attach-handler-lifecycle-event/
 * https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-initialization/#create-a-pod-that-has-an-init-container
+* https://kubernetes.io/docs/tasks/debug/debug-application/debug-init-containers/
