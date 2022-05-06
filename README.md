@@ -31,6 +31,7 @@
 - [kubernetes list all api resources in cluster](til/kubernetes-list-all-api-resources.md)
 - [Kubernetes health probes](til/kubernetes-health-probes.md)
 - [Kubernetes explain](til/kubectl-explain.md)
+- [Kubernetes pod placement](til/kubernetes-pod-placement.md)
 - [Kubernetes pod life cycle start/stop hooks](til/kubernetes-life-cycle.md)
 ## Misc
 - [Misc How to Unsubscribe from ...](til/misc-unsubscribe-from.md)
