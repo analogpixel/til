@@ -8,6 +8,7 @@
 - [Bash cycle through arguments](til/bash-cycle-through-arguments.md)
 - [Bash Yes/No Prompt](til/bash-yes-no-prompt.md)
 - [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
+- [Bash split string by column separator](til/bash-split-string-column.md)
 ## Chezmoi
 - [Chezmoi dotfile manager](til/chezmoi-dotfile-manager.md)
 ## Cli
