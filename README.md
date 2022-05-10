@@ -24,6 +24,7 @@
 - [Git Detect if you are in git repo](til/git-detect-in-repo.md)
 - [GIT revert a file from master](til/git-revert-file-from-master.md)
 - [GIT get root directory of repo](til/git-top-level.md)
+- [Git Log](til/git-log.md)
 ## Javascript
 - [Javascript Code Between Imports](til/javascript-code-between-imports.md)
 ## Json
