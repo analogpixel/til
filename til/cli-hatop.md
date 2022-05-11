@@ -7,3 +7,6 @@ the hatop tui for haproxy allows you to view and toggle your running config:
 
 ## Run
 `sudo ./hatop -s /var/run/haproxy.stat`
+
+## Links
+* https://github.com/jhunt/hatop/
