@@ -13,6 +13,7 @@
 - [Chezmoi dotfile manager](til/chezmoi-dotfile-manager.md)
 ## Cli
 - [CLI Remote pbcopy (remote data to local clipboard)](til/cli-remote-pbcopy.md)
+- [CLI hatop tui for haproxy](til/cli-hatop.md)
 - [CLI date format options](til/cli-date-format.md)
 ## Css
 - [CSS Selector Reference](til/css-selectors.md)
