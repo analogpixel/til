@@ -39,6 +39,8 @@
 - [Kubernetes explain](til/kubectl-explain.md)
 - [Kubernetes pod placement](til/kubernetes-pod-placement.md)
 - [Kubernetes pod life cycle start/stop hooks](til/kubernetes-life-cycle.md)
+## Macos
+- [Macos hide all windows](til/macos-hide-all-windows.md)
 ## Misc
 - [Misc How to Unsubscribe from ...](til/misc-unsubscribe-from.md)
 ## Packer
