@@ -30,6 +30,8 @@
 - [Javascript Code Between Imports](til/javascript-code-between-imports.md)
 ## Json
 - [JSON gron the grepper for json](til/json-gron-cli-utility.md)
+## Justfile
+- [Justfile a basic example](til/justfile-basic-justfile.md)
 ## Kind
 - [Kind Using your Own docker login with Kind](til/kind-use-docker-login.md)
 ## Kubernetes
