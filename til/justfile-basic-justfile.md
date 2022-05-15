@@ -10,7 +10,7 @@ alias mc := my_command
 
 my_command opt1="" opt2="":
   #!/usr/bin/env bash
-  echo $opt1
+  echo {{ opt1 }}
 
 ```
 
