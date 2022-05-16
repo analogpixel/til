@@ -15,6 +15,8 @@
 - [CLI Remote pbcopy (remote data to local clipboard)](til/cli-remote-pbcopy.md)
 - [CLI hatop tui for haproxy](til/cli-hatop.md)
 - [CLI date format options](til/cli-date-format.md)
+## Clojure
+- [Clojure reload file in repl](til/clojure-repl-reload-file.md)
 ## Css
 - [CSS Selector Reference](til/css-selectors.md)
 ## Fzf
