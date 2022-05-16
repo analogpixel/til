@@ -57,6 +57,7 @@
 ## Systemd
 - [Systemd clean up journalctl logs](til/systemd-cleanup-journalctl-logs.md)
 - [Systemd Debug tmp cleaner](til/systemd-debug-tmp-cleaner.md)
+- [Systemd basic unit service](til/systemd-basic-unit-service.md)
 ## Zookeeper
 - [Zookeeper Check if alive](til/zookepper-check-alive.md)
 ---
