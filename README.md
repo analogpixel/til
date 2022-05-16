@@ -24,6 +24,7 @@
 - [FZF Select multiple items from list in fzf](til/fzf-multiple-from-list.md)
 - [FZF Return default value if user exits with esc/ctrl-c](til/fzf-default-value-on-exit.md)
 ## Git
+- [Git remove files from staging  (local commit)](til/git-remove-from-staging.md)
 - [Git Detect if you are in git repo](til/git-detect-in-repo.md)
 - [GIT revert a file from master](til/git-revert-file-from-master.md)
 - [GIT get root directory of repo](til/git-top-level.md)
