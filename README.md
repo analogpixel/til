@@ -15,6 +15,8 @@
 - [CLI Remote pbcopy (remote data to local clipboard)](til/cli-remote-pbcopy.md)
 - [CLI hatop tui for haproxy](til/cli-hatop.md)
 - [CLI date format options](til/cli-date-format.md)
+## Clojure
+- [Clojure reload file in repl](til/clojure-repl-reload-file.md)
 ## Css
 - [CSS Selector Reference](til/css-selectors.md)
 ## Fzf
@@ -22,6 +24,7 @@
 - [FZF Select multiple items from list in fzf](til/fzf-multiple-from-list.md)
 - [FZF Return default value if user exits with esc/ctrl-c](til/fzf-default-value-on-exit.md)
 ## Git
+- [Git remove files from staging  (local commit)](til/git-remove-from-staging.md)
 - [Git Detect if you are in git repo](til/git-detect-in-repo.md)
 - [GIT revert a file from master](til/git-revert-file-from-master.md)
 - [GIT get root directory of repo](til/git-top-level.md)
@@ -30,6 +33,8 @@
 - [Javascript Code Between Imports](til/javascript-code-between-imports.md)
 ## Json
 - [JSON gron the grepper for json](til/json-gron-cli-utility.md)
+## Justfile
+- [Justfile a basic example](til/justfile-basic-justfile.md)
 ## Kind
 - [Kind Using your Own docker login with Kind](til/kind-use-docker-login.md)
 ## Kubernetes
@@ -39,6 +44,8 @@
 - [Kubernetes explain](til/kubectl-explain.md)
 - [Kubernetes pod placement](til/kubernetes-pod-placement.md)
 - [Kubernetes pod life cycle start/stop hooks](til/kubernetes-life-cycle.md)
+## Macos
+- [Macos hide all windows](til/macos-hide-all-windows.md)
 ## Misc
 - [Misc How to Unsubscribe from ...](til/misc-unsubscribe-from.md)
 ## Packer
