@@ -17,6 +17,7 @@
 - [CLI date format options](til/cli-date-format.md)
 ## Clojure
 - [Clojure reload file in repl](til/clojure-repl-reload-file.md)
+- [Clojure working with sequences](til/clojure-sequences.md)
 ## Css
 - [CSS Selector Reference](til/css-selectors.md)
 ## Fzf
