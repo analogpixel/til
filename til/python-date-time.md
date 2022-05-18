@@ -1,5 +1,11 @@
 # Python Date and Time
 
+## EPOC time
+```python
+import time
+time.time()
+```
+
 ## Now
 Get now with a string format:
 ```python
