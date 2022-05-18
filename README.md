@@ -43,6 +43,7 @@
 - [kubernetes Job](til/kubernetes-job.md)
 - [Kubernetes health probes](til/kubernetes-health-probes.md)
 - [Kubernetes explain](til/kubectl-explain.md)
+- [kubernetes watch kubectl output](til/kubernetes-watch-kubectl.md)
 - [Kubernetes pod placement](til/kubernetes-pod-placement.md)
 - [Kubernetes pod life cycle start/stop hooks](til/kubernetes-life-cycle.md)
 ## Macos
