@@ -8,7 +8,8 @@
 
 or 
 
-`curl -vIk https://rally1.rallydev.com`
+`curl -vvI --resolve actual-hostname:443:localhost  https://actual-hostname`
+
 
 ## Compare certs
 `diff <(openssl x509 -in cert1.pem -modulus -fingerprint) <(openssl x509 -in cert2.pem -modulus -fingerprint)`
