@@ -9,3 +9,11 @@
 or 
 
 `curl -vIk https://rally1.rallydev.com`
+
+## Compare certs
+`diff <(openssl x509 -in cert1.pem -modulus -fingerprint) <(openssl x509 -in cert2.pem -modulus -fingerprint)`
+
+Things to compare:
+```
+-serial -subject_hash -issuer_hash -hash -subject -issuer -email -startdate -enddate -purpose -dates -modulus -pubkey -fingerprint -alias -noout -nocert -ocspid -ocsp_uri -trustout -clrtrust -clrext -addtrust -addreject -setalias -days -checkend
+```
