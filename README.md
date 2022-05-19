@@ -50,6 +50,8 @@
 - [Macos hide all windows](til/macos-hide-all-windows.md)
 ## Misc
 - [Misc How to Unsubscribe from ...](til/misc-unsubscribe-from.md)
+## Openssl
+- [openssl inspect cert](til/openssl-inspect-cert.md)
 ## Packer
 - [Packer in a docker container](til/ssh_auth_in_docker_container.md)
 ## Prometheus-operator
