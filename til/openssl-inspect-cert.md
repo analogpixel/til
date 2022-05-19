@@ -8,7 +8,7 @@
 
 or 
 
-`curl -vvI --resolve actual-hostname:443:localhost  https://actual-hostname`
+`curl -vvI --resolve actual-hostname:443:127.0.0.1  https://actual-hostname`
 
 
 ## Compare certs
