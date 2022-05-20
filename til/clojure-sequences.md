@@ -23,9 +23,20 @@
   - `(some #{3} (range 20))` : checks if 3 is in collection
 - `not-every?`
 - `not-any?`
-
-
-
+- `map` : run function on every item of collection `(map fn seq)`
+  - map can take multiple collections as arguments `(map #(print %1 %2) col1 col2)`
+- `reduce` : run function on first 2 items of collection, and then every item till collection is empty `(reduce + [1 2 3])`
+- `sort` : sort a collection `(sort > [1 3 8 4])` (using optional comp?)
+- `sort-by` : sort a collection by a function `(sort-by fn col)`
+- `for` : `(for [var col filter-expr?] expr)`   `(for [n [1 2 3] :when (odd? n) n)` (:when :while)
+  - multiple bindings: `(for [n [1 2 3 4] b "abcd" ] (format "%d%c" n b))` output `("1a" "1b" "1c" "1d" "2a" "2b" "2c" "2d" "3a" "3b" "3c" "3d" "4a" "4b" "4c" "4d"`
+- `doall`  : forces clojure to walk all items in the list; no laziness
+- `dorun` : force cloure to iterate through all items in a list but doesn't keep last items in memory
+- `re-seq` : regex on string and return matches as sequence `(re-seq #"\w+" "the quick brown fox")` <- returns ("the" "quick" "brown" "fox") 
 ## Order
 - `conj` and `into` add to the front of lists
 - `conj` and `into` add to the back of vectors
+
+## Other Examples
+`(apply str (reverse "hello"))`  olleh
+
