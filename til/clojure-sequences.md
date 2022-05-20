@@ -33,10 +33,32 @@
 - `doall`  : forces clojure to walk all items in the list; no laziness
 - `dorun` : force cloure to iterate through all items in a list but doesn't keep last items in memory
 - `re-seq` : regex on string and return matches as sequence `(re-seq #"\w+" "the quick brown fox")` <- returns ("the" "quick" "brown" "fox") 
+- `get` : return value in collection at index `(get col n)` a vector is a function so `([:a :b :c] 1)` returns `:b`
+- `assoc` : replace a value at index `(assoc [0 1 2 3 3] 2 :two)` <- return [0 1 :two 3 4]
+- `dissoc` : remove keys
+- `subvec` : returns a subvector of a vector `(subvec [1 2 3 4 5] 3)` <- return [4 5]  (if no end given then just goes to end)
+- `get` : returns value of a key in a map `(get map key value-if-not-found)`
+- `contains?` : does the map contain key? `(contains? map key)`
+- `select-keys`: return map but only with specific keys
+- `merge`: combine maps 
+
 ## Order
 - `conj` and `into` add to the front of lists
 - `conj` and `into` add to the back of vectors
 
+## Using set functions
+- `require '[clojure.set :refer :all])`
+- define a set: `#{'item', 'item2', 'item3'}`
+- `union`
+- `intersection`
+- `difference`
+- `select`
+- `rename` : renames a key
+- `select`
+- `project` : select columns
+- `join` : join two sets on key
+
+
 ## Other Examples
 `(apply str (reverse "hello"))`  olleh
-
+`(run! println (for [n (range 1 100)] (cond (= (mod n 15) 0) "FizzBar" (= (mod n 5) 0) "Bar" (= (mod n 3) 0) "Fizz" :else n)) )`
