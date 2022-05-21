@@ -1,5 +1,3 @@
-## Affinity
-- [Affinity Designer coloring tutorial](til/afinity_designer-vectorize.md)
 ## Ansible
 - [Ansible adhoc command](til/ansible-adhoc-command.md)
 - [Ansible console a repl for ansible](til/ansible-console.md)
@@ -20,6 +18,7 @@
 ## Clojure
 - [Clojure reload file in repl](til/clojure-repl-reload-file.md)
 - [Clojure working with sequences](til/clojure-sequences.md)
+- [Clojure database access sqlite/jdbc](til/clojure-database-access.md)
 ## Css
 - [CSS Selector Reference](til/css-selectors.md)
 ## Fzf
