@@ -48,6 +48,7 @@
 - [kubernetes watch kubectl output](til/kubernetes-watch-kubectl.md)
 - [Kubernetes pod placement](til/kubernetes-pod-placement.md)
 - [Kubernetes pod life cycle start/stop hooks](til/kubernetes-life-cycle.md)
+- [kubernetes host aliases (/etc/hosts)](til/kubernetes-host-aliases.md)
 ## Macos
 - [Macos hide all windows](til/macos-hide-all-windows.md)
 ## Misc
