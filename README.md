@@ -1,5 +1,3 @@
-## Affinity
-- [Affinity Designer coloring tutorial](til/afinity_designer-vectorize.md)
 ## Ansible
 - [Ansible adhoc command](til/ansible-adhoc-command.md)
 - [Ansible console a repl for ansible](til/ansible-console.md)
@@ -20,6 +18,7 @@
 ## Clojure
 - [Clojure reload file in repl](til/clojure-repl-reload-file.md)
 - [Clojure working with sequences](til/clojure-sequences.md)
+- [Clojure database access sqlite/jdbc](til/clojure-database-access.md)
 ## Css
 - [CSS Selector Reference](til/css-selectors.md)
 ## Fzf
@@ -61,6 +60,7 @@
 - [Prometheus-operator Pod Monitors vs. Service Monitors](til/kubernetes_operator-podmonitor-vs-servicemonitor.md)
 ## Python
 - [Python Change working directory (cwd)](til/python-change-working-directory.md)
+- [Python expand tilde in path](til/python-expand-unix-path.md)
 - [Python Date and Time](til/python-date-time.md)
 - [Python Add or Update to a list in a dict](til/python-add_update_list_in_dict.md)
 - [Python Converting a list to a dict](til/python-dict-from-list.md)
