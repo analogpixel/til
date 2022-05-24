@@ -1,3 +1,5 @@
+## Affinity
+- [Affinity Designer coloring tutorial](til/afinity_designer-vectorize.md)
 ## Ansible
 - [Ansible adhoc command](til/ansible-adhoc-command.md)
 - [Ansible console a repl for ansible](til/ansible-console.md)
