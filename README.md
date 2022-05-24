@@ -23,6 +23,8 @@
 - [Clojure database access sqlite/jdbc](til/clojure-database-access.md)
 ## Css
 - [CSS Selector Reference](til/css-selectors.md)
+## Curl
+- [Curl resolve hostname to different IP](til/curl-resolve-to-differnt-ip.md)
 ## Fzf
 - [FZF Only display certain columns](til/fzf-only-display-x-col.md)
 - [FZF Select multiple items from list in fzf](til/fzf-multiple-from-list.md)
