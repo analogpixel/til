@@ -68,6 +68,7 @@
 - [Python expand tilde in path](til/python-expand-unix-path.md)
 - [Python Date and Time](til/python-date-time.md)
 - [Python Add or Update to a list in a dict](til/python-add_update_list_in_dict.md)
+- [Python remove non-characters from string](til/python-remove-non-alpha-characters.md)
 - [Python Converting a list to a dict](til/python-dict-from-list.md)
 ## Rpm
 - [RPM Fix Corrupt database](til/rpm-fix-corrupt-database.md)
