@@ -55,6 +55,8 @@
 - [kubernetes host aliases (/etc/hosts)](til/kubernetes-host-aliases.md)
 ## Macos
 - [Macos hide all windows](til/macos-hide-all-windows.md)
+## Math
+- [Math Properties of Exponents](til/math-properties-of-exponents.md)
 ## Misc
 - [Misc How to Unsubscribe from ...](til/misc-unsubscribe-from.md)
 ## Openssl
