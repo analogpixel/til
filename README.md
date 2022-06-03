@@ -55,6 +55,7 @@
 - [kubernetes host aliases (/etc/hosts)](til/kubernetes-host-aliases.md)
 ## Macos
 - [Macos hide all windows](til/macos-hide-all-windows.md)
+- [Macos find process listening on port](til/macos-find-listening-port.md)
 ## Math
 - [Math Properties of Exponents](til/math-properties-of-exponents.md)
 ## Misc
