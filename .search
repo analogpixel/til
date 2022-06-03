@@ -1,0 +1,57 @@
+Systemd clean up journalctl logs,til/systemd-cleanup-journalctl-logs.md
+Bash cycle through arguments,til/bash-cycle-through-arguments.md
+Git remove files from staging  (local commit),til/git-remove-from-staging.md
+Macos hide all windows,til/macos-hide-all-windows.md
+kubernetes list all api resources in cluster,til/kubernetes-list-all-api-resources.md
+FZF Only display certain columns,til/fzf-only-display-x-col.md
+Bash Yes/No Prompt,til/bash-yes-no-prompt.md
+SSH Debugging a conneciton,til/ssh-debug-connection.md
+CLI Remote pbcopy (remote data to local clipboard),til/cli-remote-pbcopy.md
+Curl resolve hostname to different IP,til/curl-resolve-to-differnt-ip.md
+Systemd Debug tmp cleaner,til/systemd-debug-tmp-cleaner.md
+Prometheus-operator Pod Monitors vs. Service Monitors,til/kubernetes_operator-podmonitor-vs-servicemonitor.md
+Git Detect if you are in git repo,til/git-detect-in-repo.md
+CLI hatop tui for haproxy,til/cli-hatop.md
+GIT revert a file from master,til/git-revert-file-from-master.md
+RPM Fix Corrupt database,til/rpm-fix-corrupt-database.md
+Ansible adhoc command,til/ansible-adhoc-command.md
+Misc How to Unsubscribe from ...,til/misc-unsubscribe-from.md
+AWK How to clean up logs with Java Stack Traces in them,til/awk-trim-java-stack-trace-logs.md
+Python Change working directory (cwd),til/python-change-working-directory.md
+openssl inspect cert,til/openssl-inspect-cert.md
+Math Properties of Exponents,til/math-properties-of-exponents.md
+Ansible console a repl for ansible,til/ansible-console.md
+FZF Select multiple items from list in fzf,til/fzf-multiple-from-list.md
+GIT get root directory of repo,til/git-top-level.md
+Python expand tilde in path,til/python-expand-unix-path.md
+Python Date and Time,til/python-date-time.md
+CSS Selector Reference,til/css-selectors.md
+FZF Return default value if user exits with esc/ctrl-c,til/fzf-default-value-on-exit.md
+kubernetes Job,til/kubernetes-job.md
+Git Log,til/git-log.md
+Clojure reload file in repl,til/clojure-repl-reload-file.md
+Chezmoi dotfile manager,til/chezmoi-dotfile-manager.md
+Kubernetes health probes,til/kubernetes-health-probes.md
+Javascript Code Between Imports,til/javascript-code-between-imports.md
+JSON gron the grepper for json,til/json-gron-cli-utility.md
+CLI date format options,til/cli-date-format.md
+Systemd basic unit service,til/systemd-basic-unit-service.md
+Kubernetes explain,til/kubectl-explain.md
+Ansible Dump out all the host inventory,til/ansible-dump-host-inventory.md
+Bash Loop till string is empty,til/bash-loop-untill-empty.md
+Kind Using your Own docker login with Kind,til/kind-use-docker-login.md
+Ansible debugger,til/ansible-debugger.md
+kubernetes watch kubectl output,til/kubernetes-watch-kubectl.md
+Kubernetes pod placement,til/kubernetes-pod-placement.md
+Affinity Designer coloring tutorial,til/afinity_designer-vectorize.md
+Python Add or Update to a list in a dict,til/python-add_update_list_in_dict.md
+Bash split string by column separator,til/bash-split-string-column.md
+Clojure working with sequences,til/clojure-sequences.md
+Python remove non-characters from string,til/python-remove-non-alpha-characters.md
+Justfile a basic example,til/justfile-basic-justfile.md
+Packer in a docker container,til/ssh_auth_in_docker_container.md
+Zookeeper Check if alive,til/zookepper-check-alive.md
+Clojure database access sqlite/jdbc,til/clojure-database-access.md
+Python Converting a list to a dict,til/python-dict-from-list.md
+Kubernetes pod life cycle start/stop hooks,til/kubernetes-life-cycle.md
+kubernetes host aliases (/etc/hosts),til/kubernetes-host-aliases.md
