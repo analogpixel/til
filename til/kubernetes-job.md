@@ -21,6 +21,33 @@ spec:
 ## Terminate after time
 `.spec.activeDeadlineSeconds`  will terminate the pod after a number of seconds. A [ttl controller](https://kubernetes.io/docs/concepts/workloads/controllers/ttlafterfinished/) can be used to clean up jobs after a certain time.
 
+## Cronjob
+
+a `Cronjob` will create a job every `schedule` which will the create a `pod` to run.
+
+```yaml
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: hello
+spec:
+  schedule: "* * * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: hello
+            image: busybox:1.28
+            imagePullPolicy: IfNotPresent
+            command:
+            - /bin/sh
+            - -c
+            - date; echo Hello from the Kubernetes cluster
+          restartPolicy: OnFailure
+
+```
+
 ## links
 * https://kubernetes.io/docs/concepts/workloads/controllers/job/
 * https://kubernetes.io/docs/concepts/workloads/controllers/ttlafterfinished/
