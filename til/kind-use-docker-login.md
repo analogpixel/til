@@ -29,6 +29,17 @@ kubectl create secret docker-registry myregistrykey \
 
 to create the secret in kubernetes.
 
+## General
+to add it to a kubernetes manifest:
+```
+...
+spec:
+  template:
+    spec:
+      imagePullSecrets:
+        -name myregistrykey
+```
+
 ## Consul
 in the consul helm image the setting is:
 ```
