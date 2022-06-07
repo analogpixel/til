@@ -39,6 +39,7 @@ CLI date format options,til/cli-date-format.md
 Systemd basic unit service,til/systemd-basic-unit-service.md
 Kubernetes explain,til/kubectl-explain.md
 Ansible Dump out all the host inventory,til/ansible-dump-host-inventory.md
+Vim Sessions,til/vim-sessions.md
 Bash Loop till string is empty,til/bash-loop-untill-empty.md
 Kind Using your Own docker login with Kind,til/kind-use-docker-login.md
 Ansible debugger,til/ansible-debugger.md
