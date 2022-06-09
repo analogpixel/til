@@ -13,6 +13,7 @@ Prometheus-operator Pod Monitors vs. Service Monitors,til/kubernetes_operator-po
 Git Detect if you are in git repo,til/git-detect-in-repo.md
 CLI hatop tui for haproxy,til/cli-hatop.md
 GIT revert a file from master,til/git-revert-file-from-master.md
+Vim Tabs,til/vim-tabs.md
 RPM Fix Corrupt database,til/rpm-fix-corrupt-database.md
 Ansible adhoc command,til/ansible-adhoc-command.md
 Misc How to Unsubscribe from ...,til/misc-unsubscribe-from.md
