@@ -70,6 +70,8 @@ How I quickly find stuff in this repo via the header:
 - [openssl inspect cert](til/openssl-inspect-cert.md)
 ## Packer
 - [Packer in a docker container](til/ssh_auth_in_docker_container.md)
+## Prometheus
+- [prometheus promql count change in value](til/prometheus-change-in-value.md)
 ## Prometheus-operator
 - [Prometheus-operator Pod Monitors vs. Service Monitors](til/kubernetes_operator-podmonitor-vs-servicemonitor.md)
 ## Python

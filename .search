@@ -17,6 +17,7 @@ Vim Tabs,til/vim-tabs.md
 RPM Fix Corrupt database,til/rpm-fix-corrupt-database.md
 Ansible adhoc command,til/ansible-adhoc-command.md
 Misc How to Unsubscribe from ...,til/misc-unsubscribe-from.md
+prometheus promql count change in value,til/prometheus-change-in-value.md
 AWK How to clean up logs with Java Stack Traces in them,til/awk-trim-java-stack-trace-logs.md
 Python Change working directory (cwd),til/python-change-working-directory.md
 openssl inspect cert,til/openssl-inspect-cert.md
