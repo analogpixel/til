@@ -61,6 +61,7 @@ How I quickly find stuff in this repo via the header:
 - [kubernetes host aliases (/etc/hosts)](til/kubernetes-host-aliases.md)
 ## Macos
 - [Macos hide all windows](til/macos-hide-all-windows.md)
+- [Macos Font smoothing](til/macos-font-smoothing.md)
 - [Macos find process listening on port](til/macos-find-listening-port.md)
 ## Math
 - [Math Properties of Exponents](til/math-properties-of-exponents.md)
