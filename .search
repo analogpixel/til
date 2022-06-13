@@ -10,6 +10,7 @@ CLI Remote pbcopy (remote data to local clipboard),til/cli-remote-pbcopy.md
 Curl resolve hostname to different IP,til/curl-resolve-to-differnt-ip.md
 Systemd Debug tmp cleaner,til/systemd-debug-tmp-cleaner.md
 Prometheus-operator Pod Monitors vs. Service Monitors,til/kubernetes_operator-podmonitor-vs-servicemonitor.md
+Python a functional decimal to hex conversion,til/python-decimal-to-hex.md
 Git Detect if you are in git repo,til/git-detect-in-repo.md
 CLI hatop tui for haproxy,til/cli-hatop.md
 GIT revert a file from master,til/git-revert-file-from-master.md
