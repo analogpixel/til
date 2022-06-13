@@ -67,6 +67,8 @@ How I quickly find stuff in this repo via the header:
 - [Math Properties of Exponents](til/math-properties-of-exponents.md)
 ## Misc
 - [Misc How to Unsubscribe from ...](til/misc-unsubscribe-from.md)
+## Nmap
+- [NMAP scripts](til/nmap-scripts.md)
 ## Openssl
 - [openssl inspect cert](til/openssl-inspect-cert.md)
 ## Packer

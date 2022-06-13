@@ -23,6 +23,7 @@ AWK How to clean up logs with Java Stack Traces in them,til/awk-trim-java-stack-
 Macos Font smoothing,til/macos-font-smoothing.md
 Python Change working directory (cwd),til/python-change-working-directory.md
 openssl inspect cert,til/openssl-inspect-cert.md
+NMAP scripts,til/nmap-scripts.md
 Math Properties of Exponents,til/math-properties-of-exponents.md
 Ansible console a repl for ansible,til/ansible-console.md
 FZF Select multiple items from list in fzf,til/fzf-multiple-from-list.md
