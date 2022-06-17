@@ -50,6 +50,7 @@ Bash Loop till string is empty,til/bash-loop-untill-empty.md
 Kind Using your Own docker login with Kind,til/kind-use-docker-login.md
 Ansible debugger,til/ansible-debugger.md
 kubernetes watch kubectl output,til/kubernetes-watch-kubectl.md
+Python set theory,til/python-set-theory.md
 Kubernetes pod placement,til/kubernetes-pod-placement.md
 Affinity Designer coloring tutorial,til/afinity_designer-vectorize.md
 Python Add or Update to a list in a dict,til/python-add_update_list_in_dict.md
