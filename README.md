@@ -80,6 +80,7 @@ How I quickly find stuff in this repo via the header:
 ## Python
 - [Python a functional decimal to hex conversion](til/python-decimal-to-hex.md)
 - [Python webserver mode](til/python-web-server.md)
+- [Python bitwise operators](til/python-bitwise-operators.md)
 - [Python Change working directory (cwd)](til/python-change-working-directory.md)
 - [Python expand tilde in path](til/python-expand-unix-path.md)
 - [Python Date and Time](til/python-date-time.md)
@@ -87,6 +88,8 @@ How I quickly find stuff in this repo via the header:
 - [Python Add or Update to a list in a dict](til/python-add_update_list_in_dict.md)
 - [Python remove non-characters from string](til/python-remove-non-alpha-characters.md)
 - [Python Converting a list to a dict](til/python-dict-from-list.md)
+## Raspberry
+- [Raspberry Pi firefox](til/raspberrypi-firefox.md)
 ## Rpm
 - [RPM Fix Corrupt database](til/rpm-fix-corrupt-database.md)
 ## Ruby
