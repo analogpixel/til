@@ -79,6 +79,7 @@ How I quickly find stuff in this repo via the header:
 - [Prometheus-operator Pod Monitors vs. Service Monitors](til/kubernetes_operator-podmonitor-vs-servicemonitor.md)
 ## Python
 - [Python a functional decimal to hex conversion](til/python-decimal-to-hex.md)
+- [Python webserver mode](til/python-web-server.md)
 - [Python Change working directory (cwd)](til/python-change-working-directory.md)
 - [Python expand tilde in path](til/python-expand-unix-path.md)
 - [Python Date and Time](til/python-date-time.md)
