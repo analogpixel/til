@@ -87,6 +87,7 @@ How I quickly find stuff in this repo via the header:
 - [Python set theory](til/python-set-theory.md)
 - [Python Add or Update to a list in a dict](til/python-add_update_list_in_dict.md)
 - [Python remove non-characters from string](til/python-remove-non-alpha-characters.md)
+- [Python Sqlite](til/python-sqlite.md)
 - [Python Converting a list to a dict](til/python-dict-from-list.md)
 ## Raspberry
 - [Raspberry Pi firefox](til/raspberrypi-firefox.md)
