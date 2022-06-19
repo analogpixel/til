@@ -19,3 +19,7 @@ con.close()
 * Create a table that has a unique `CREATE TABLE links (url TEXT, rating INTEGER, words TEXT, scanned BOOLEAN, UNIQUE(url)) ;`
 * use `REPLACE`
   * `cur.executemany( "REPLACE into links (url, rating, scanned) values (?,?,?)", insert )`
+
+
+## Links
+* https://www.digitalocean.com/community/tutorials/how-to-use-the-sqlite3-module-in-python-3
