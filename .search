@@ -41,6 +41,7 @@ CSS Selector Reference,til/css-selectors.md
 FZF Return default value if user exits with esc/ctrl-c,til/fzf-default-value-on-exit.md
 kubernetes Job,til/kubernetes-job.md
 Git Log,til/git-log.md
+Prometheus alertmanager send test alert,til/prometheus-alertmanager-send-test.md
 Clojure reload file in repl,til/clojure-repl-reload-file.md
 Chezmoi dotfile manager,til/chezmoi-dotfile-manager.md
 Kubernetes health probes,til/kubernetes-health-probes.md
