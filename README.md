@@ -6,20 +6,22 @@ How I quickly find stuff in this repo via the header:
  ## Affinity
 - [Affinity Designer coloring tutorial](til/afinity_designer-vectorize.md)
 ## Ansible
-- [Ansible adhoc command](til/ansible-adhoc-command.md)
-- [Ansible console a repl for ansible](til/ansible-console.md)
 - [Ansible Dump out all the host inventory](til/ansible-dump-host-inventory.md)
 - [Ansible debugger](til/ansible-debugger.md)
+- [Ansible adhoc command](til/ansible-adhoc-command.md)
+- [Ansible console a repl for ansible](til/ansible-console.md)
 ## Awk
 - [AWK How to clean up logs with Java Stack Traces in them](til/awk-trim-java-stack-trace-logs.md)
 ## Azure
 - [Azure grow centos disk](til/azure-grow-centos-disk.md)
 ## Bash
-- [Bash cycle through arguments](til/bash-cycle-through-arguments.md)
+- [Bash split string by column separator](til/bash-split-string-column.md)
+- [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
 - [Bash Yes/No Prompt](til/bash-yes-no-prompt.md)
 - [Bash echo no newline](til/bash-echo-no-newline.md)
-- [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
-- [Bash split string by column separator](til/bash-split-string-column.md)
+- [Bash cycle through arguments](til/bash-cycle-through-arguments.md)
+## Blender
+- [Blender HDRI files](til/blender-hdri-file.md)
 ## Chezmoi
 - [Chezmoi dotfile manager](til/chezmoi-dotfile-manager.md)
 ## Cli
@@ -27,26 +29,26 @@ How I quickly find stuff in this repo via the header:
 - [CLI hatop tui for haproxy](til/cli-hatop.md)
 - [CLI date format options](til/cli-date-format.md)
 ## Clojure
-- [Clojure reload file in repl](til/clojure-repl-reload-file.md)
 - [Clojure working with sequences](til/clojure-sequences.md)
 - [Clojure database access sqlite/jdbc](til/clojure-database-access.md)
+- [Clojure reload file in repl](til/clojure-repl-reload-file.md)
 ## Css
 - [CSS Selector Reference](til/css-selectors.md)
 ## Curl
 - [Curl resolve hostname to different IP](til/curl-resolve-to-differnt-ip.md)
 ## Firefox
-- [Firefox extensios](til/firefox-extension.md)
 - [Firefox browser.storage.local](til/firefox-browser-storage-local.md)
+- [Firefox extensios](til/firefox-extension.md)
 ## Fzf
 - [FZF Only display certain columns](til/fzf-only-display-x-col.md)
-- [FZF Select multiple items from list in fzf](til/fzf-multiple-from-list.md)
 - [FZF Return default value if user exits with esc/ctrl-c](til/fzf-default-value-on-exit.md)
+- [FZF Select multiple items from list in fzf](til/fzf-multiple-from-list.md)
 ## Git
-- [Git remove files from staging  (local commit)](til/git-remove-from-staging.md)
-- [Git Detect if you are in git repo](til/git-detect-in-repo.md)
+- [Git Log](til/git-log.md)
 - [GIT revert a file from master](til/git-revert-file-from-master.md)
 - [GIT get root directory of repo](til/git-top-level.md)
-- [Git Log](til/git-log.md)
+- [Git Detect if you are in git repo](til/git-detect-in-repo.md)
+- [Git remove files from staging  (local commit)](til/git-remove-from-staging.md)
 ## Java
 - [Java check if NaN](til/java-nan.md)
 ## Javascript
@@ -58,14 +60,14 @@ How I quickly find stuff in this repo via the header:
 ## Kind
 - [Kind Using your Own docker login with Kind](til/kind-use-docker-login.md)
 ## Kubernetes
-- [kubernetes list all api resources in cluster](til/kubernetes-list-all-api-resources.md)
-- [kubernetes Job](til/kubernetes-job.md)
-- [Kubernetes health probes](til/kubernetes-health-probes.md)
+- [kubernetes host aliases (/etc/hosts)](til/kubernetes-host-aliases.md)
 - [Kubernetes explain](til/kubectl-explain.md)
 - [kubernetes watch kubectl output](til/kubernetes-watch-kubectl.md)
-- [Kubernetes pod placement](til/kubernetes-pod-placement.md)
 - [Kubernetes pod life cycle start/stop hooks](til/kubernetes-life-cycle.md)
-- [kubernetes host aliases (/etc/hosts)](til/kubernetes-host-aliases.md)
+- [Kubernetes pod placement](til/kubernetes-pod-placement.md)
+- [Kubernetes health probes](til/kubernetes-health-probes.md)
+- [kubernetes Job](til/kubernetes-job.md)
+- [kubernetes list all api resources in cluster](til/kubernetes-list-all-api-resources.md)
 ## Macos
 - [Macos hide all windows](til/macos-hide-all-windows.md)
 - [Macos Font smoothing](til/macos-font-smoothing.md)
@@ -81,23 +83,23 @@ How I quickly find stuff in this repo via the header:
 ## Packer
 - [Packer in a docker container](til/ssh_auth_in_docker_container.md)
 ## Prometheus
-- [prometheus promql count change in value](til/prometheus-change-in-value.md)
 - [Prometheus alertmanager send test alert](til/prometheus-alertmanager-send-test.md)
+- [prometheus promql count change in value](til/prometheus-change-in-value.md)
 ## Prometheus-operator
 - [Prometheus-operator Pod Monitors vs. Service Monitors](til/kubernetes_operator-podmonitor-vs-servicemonitor.md)
 ## Python
+- [Python expand tilde in path](til/python-expand-unix-path.md)
+- [Python remove non-characters from string](til/python-remove-non-alpha-characters.md)
+- [Python Converting a list to a dict](til/python-dict-from-list.md)
+- [Python Add or Update to a list in a dict](til/python-add_update_list_in_dict.md)
+- [Python bitwise operators](til/python-bitwise-operators.md)
 - [Python a functional decimal to hex conversion](til/python-decimal-to-hex.md)
 - [Python webserver mode](til/python-web-server.md)
-- [Python functional programming](til/python-functional-programming.md)
-- [Python bitwise operators](til/python-bitwise-operators.md)
-- [Python Change working directory (cwd)](til/python-change-working-directory.md)
-- [Python expand tilde in path](til/python-expand-unix-path.md)
-- [Python Date and Time](til/python-date-time.md)
-- [Python set theory](til/python-set-theory.md)
-- [Python Add or Update to a list in a dict](til/python-add_update_list_in_dict.md)
-- [Python remove non-characters from string](til/python-remove-non-alpha-characters.md)
 - [Python Sqlite](til/python-sqlite.md)
-- [Python Converting a list to a dict](til/python-dict-from-list.md)
+- [Python Date and Time](til/python-date-time.md)
+- [Python functional programming](til/python-functional-programming.md)
+- [Python set theory](til/python-set-theory.md)
+- [Python Change working directory (cwd)](til/python-change-working-directory.md)
 ## Raspberry
 - [Raspberry Pi firefox](til/raspberrypi-firefox.md)
 ## Rpm
@@ -110,12 +112,12 @@ How I quickly find stuff in this repo via the header:
 - [SSH Debugging a conneciton](til/ssh-debug-connection.md)
 ## Systemd
 - [Systemd clean up journalctl logs](til/systemd-cleanup-journalctl-logs.md)
-- [Systemd Debug tmp cleaner](til/systemd-debug-tmp-cleaner.md)
 - [Systemd basic unit service](til/systemd-basic-unit-service.md)
+- [Systemd Debug tmp cleaner](til/systemd-debug-tmp-cleaner.md)
 ## Vim
-- [Vim Tabs](til/vim-tabs.md)
-- [Vim Sessions](til/vim-sessions.md)
 - [Vim clipboard history](til/vim-clipboard-history.md)
+- [Vim Sessions](til/vim-sessions.md)
+- [Vim Tabs](til/vim-tabs.md)
 ## Zookeeper
 - [Zookeeper Check if alive](til/zookepper-check-alive.md)
 ---

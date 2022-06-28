@@ -1,79 +1,80 @@
-Systemd clean up journalctl logs,til/systemd-cleanup-journalctl-logs.md
-Bash cycle through arguments,til/bash-cycle-through-arguments.md
-Git remove files from staging  (local commit),til/git-remove-from-staging.md
-Macos hide all windows,til/macos-hide-all-windows.md
-kubernetes list all api resources in cluster,til/kubernetes-list-all-api-resources.md
-FZF Only display certain columns,til/fzf-only-display-x-col.md
-Bash Yes/No Prompt,til/bash-yes-no-prompt.md
-Firefox extensios,til/firefox-extension.md
-SSH Debugging a conneciton,til/ssh-debug-connection.md
-CLI Remote pbcopy (remote data to local clipboard),til/cli-remote-pbcopy.md
-Curl resolve hostname to different IP,til/curl-resolve-to-differnt-ip.md
-Sqlite csv query,til/sqlite-csv-query.md
-Systemd Debug tmp cleaner,til/systemd-debug-tmp-cleaner.md
-Prometheus-operator Pod Monitors vs. Service Monitors,til/kubernetes_operator-podmonitor-vs-servicemonitor.md
-Python a functional decimal to hex conversion,til/python-decimal-to-hex.md
-Git Detect if you are in git repo,til/git-detect-in-repo.md
-Python webserver mode,til/python-web-server.md
-CLI hatop tui for haproxy,til/cli-hatop.md
-GIT revert a file from master,til/git-revert-file-from-master.md
-Python functional programming,til/python-functional-programming.md
-Vim Tabs,til/vim-tabs.md
-RPM Fix Corrupt database,til/rpm-fix-corrupt-database.md
-Ansible adhoc command,til/ansible-adhoc-command.md
-Misc How to Unsubscribe from ...,til/misc-unsubscribe-from.md
-Raspberry Pi firefox,til/raspberrypi-firefox.md
+Ansible Dump out all the host inventory,til/ansible-dump-host-inventory.md
+Bash split string by column separator,til/bash-split-string-column.md
 Azure grow centos disk,til/azure-grow-centos-disk.md
-Python bitwise operators,til/python-bitwise-operators.md
+Python expand tilde in path,til/python-expand-unix-path.md
+Git Log,til/git-log.md
+Ruby in juptyer notebooks,til/ruby-jupyter-notebook.md
+Python remove non-characters from string,til/python-remove-non-alpha-characters.md
+kubernetes host aliases (/etc/hosts),til/kubernetes-host-aliases.md
+FZF Only display certain columns,til/fzf-only-display-x-col.md
+Sqlite csv query,til/sqlite-csv-query.md
+Kind Using your Own docker login with Kind,til/kind-use-docker-login.md
+Python Converting a list to a dict,til/python-dict-from-list.md
+Blender HDRI files,til/blender-hdri-file.md
+Macos hide all windows,til/macos-hide-all-windows.md
+Python Add or Update to a list in a dict,til/python-add_update_list_in_dict.md
+GIT revert a file from master,til/git-revert-file-from-master.md
+CSS Selector Reference,til/css-selectors.md
+Firefox browser.storage.local,til/firefox-browser-storage-local.md
+Packer in a docker container,til/ssh_auth_in_docker_container.md
+Curl resolve hostname to different IP,til/curl-resolve-to-differnt-ip.md
+Clojure working with sequences,til/clojure-sequences.md
+Java check if NaN,til/java-nan.md
+Prometheus alertmanager send test alert,til/prometheus-alertmanager-send-test.md
+JSON gron the grepper for json,til/json-gron-cli-utility.md
+Kubernetes explain,til/kubectl-explain.md
+Ansible debugger,til/ansible-debugger.md
+Clojure database access sqlite/jdbc,til/clojure-database-access.md
+Bash Loop till string is empty,til/bash-loop-untill-empty.md
+Ansible adhoc command,til/ansible-adhoc-command.md
+Justfile a basic example,til/justfile-basic-justfile.md
+Vim clipboard history,til/vim-clipboard-history.md
 prometheus promql count change in value,til/prometheus-change-in-value.md
+Vim Sessions,til/vim-sessions.md
+Chezmoi dotfile manager,til/chezmoi-dotfile-manager.md
+Python bitwise operators,til/python-bitwise-operators.md
+GIT get root directory of repo,til/git-top-level.md
+kubernetes watch kubectl output,til/kubernetes-watch-kubectl.md
+FZF Return default value if user exits with esc/ctrl-c,til/fzf-default-value-on-exit.md
+Bash Yes/No Prompt,til/bash-yes-no-prompt.md
 AWK How to clean up logs with Java Stack Traces in them,til/awk-trim-java-stack-trace-logs.md
 Macos Font smoothing,til/macos-font-smoothing.md
-Python Change working directory (cwd),til/python-change-working-directory.md
-openssl inspect cert,til/openssl-inspect-cert.md
+Python a functional decimal to hex conversion,til/python-decimal-to-hex.md
 NMAP scripts,til/nmap-scripts.md
-Java check if NaN,til/java-nan.md
-Math Properties of Exponents,til/math-properties-of-exponents.md
-Ansible console a repl for ansible,til/ansible-console.md
-FZF Select multiple items from list in fzf,til/fzf-multiple-from-list.md
-GIT get root directory of repo,til/git-top-level.md
-Ruby in juptyer notebooks,til/ruby-jupyter-notebook.md
-Python expand tilde in path,til/python-expand-unix-path.md
-Python Date and Time,til/python-date-time.md
-CSS Selector Reference,til/css-selectors.md
-FZF Return default value if user exits with esc/ctrl-c,til/fzf-default-value-on-exit.md
-kubernetes Job,til/kubernetes-job.md
-Git Log,til/git-log.md
-Prometheus alertmanager send test alert,til/prometheus-alertmanager-send-test.md
-Clojure reload file in repl,til/clojure-repl-reload-file.md
-Chezmoi dotfile manager,til/chezmoi-dotfile-manager.md
-Kubernetes health probes,til/kubernetes-health-probes.md
-Javascript Code Between Imports,til/javascript-code-between-imports.md
-Bash echo no newline,til/bash-echo-no-newline.md
-JSON gron the grepper for json,til/json-gron-cli-utility.md
-CLI date format options,til/cli-date-format.md
-Systemd basic unit service,til/systemd-basic-unit-service.md
-Kubernetes explain,til/kubectl-explain.md
-Ansible Dump out all the host inventory,til/ansible-dump-host-inventory.md
-Vim Sessions,til/vim-sessions.md
-Bash Loop till string is empty,til/bash-loop-untill-empty.md
-Kind Using your Own docker login with Kind,til/kind-use-docker-login.md
-Ansible debugger,til/ansible-debugger.md
-kubernetes watch kubectl output,til/kubernetes-watch-kubectl.md
-Firefox browser.storage.local,til/firefox-browser-storage-local.md
-Python set theory,til/python-set-theory.md
-Kubernetes pod placement,til/kubernetes-pod-placement.md
-Affinity Designer coloring tutorial,til/afinity_designer-vectorize.md
-Python Add or Update to a list in a dict,til/python-add_update_list_in_dict.md
-Bash split string by column separator,til/bash-split-string-column.md
-Clojure working with sequences,til/clojure-sequences.md
-Python remove non-characters from string,til/python-remove-non-alpha-characters.md
-Justfile a basic example,til/justfile-basic-justfile.md
-Packer in a docker container,til/ssh_auth_in_docker_container.md
-Zookeeper Check if alive,til/zookepper-check-alive.md
-Python Sqlite,til/python-sqlite.md
-Clojure database access sqlite/jdbc,til/clojure-database-access.md
-Macos find process listening on port,til/macos-find-listening-port.md
-Vim clipboard history,til/vim-clipboard-history.md
-Python Converting a list to a dict,til/python-dict-from-list.md
 Kubernetes pod life cycle start/stop hooks,til/kubernetes-life-cycle.md
-kubernetes host aliases (/etc/hosts),til/kubernetes-host-aliases.md
+Javascript Code Between Imports,til/javascript-code-between-imports.md
+RPM Fix Corrupt database,til/rpm-fix-corrupt-database.md
+Python webserver mode,til/python-web-server.md
+Misc How to Unsubscribe from ...,til/misc-unsubscribe-from.md
+Kubernetes pod placement,til/kubernetes-pod-placement.md
+Systemd clean up journalctl logs,til/systemd-cleanup-journalctl-logs.md
+Bash echo no newline,til/bash-echo-no-newline.md
+Python Sqlite,til/python-sqlite.md
+Kubernetes health probes,til/kubernetes-health-probes.md
+CLI Remote pbcopy (remote data to local clipboard),til/cli-remote-pbcopy.md
+Zookeeper Check if alive,til/zookepper-check-alive.md
+FZF Select multiple items from list in fzf,til/fzf-multiple-from-list.md
+Affinity Designer coloring tutorial,til/afinity_designer-vectorize.md
+Raspberry Pi firefox,til/raspberrypi-firefox.md
+Python Date and Time,til/python-date-time.md
+Python functional programming,til/python-functional-programming.md
+Vim Tabs,til/vim-tabs.md
+openssl inspect cert,til/openssl-inspect-cert.md
+Systemd basic unit service,til/systemd-basic-unit-service.md
+kubernetes Job,til/kubernetes-job.md
+CLI hatop tui for haproxy,til/cli-hatop.md
+Systemd Debug tmp cleaner,til/systemd-debug-tmp-cleaner.md
+SSH Debugging a conneciton,til/ssh-debug-connection.md
+Math Properties of Exponents,til/math-properties-of-exponents.md
+Python set theory,til/python-set-theory.md
+kubernetes list all api resources in cluster,til/kubernetes-list-all-api-resources.md
+Git Detect if you are in git repo,til/git-detect-in-repo.md
+Firefox extensios,til/firefox-extension.md
+Clojure reload file in repl,til/clojure-repl-reload-file.md
+Macos find process listening on port,til/macos-find-listening-port.md
+Prometheus-operator Pod Monitors vs. Service Monitors,til/kubernetes_operator-podmonitor-vs-servicemonitor.md
+Bash cycle through arguments,til/bash-cycle-through-arguments.md
+Ansible console a repl for ansible,til/ansible-console.md
+CLI date format options,til/cli-date-format.md
+Git remove files from staging  (local commit),til/git-remove-from-staging.md
+Python Change working directory (cwd),til/python-change-working-directory.md
