@@ -49,6 +49,12 @@ Reason: add functionality to firefox
 }
 ```
 
+## Publish you Extension 
+- `web-ext build` : this will build a zip to upload to mozilla
+- login to https://addons.mozilla.org/en-US/developers/addons
+- upload your zip
+- they'll get back to you, and then you can install your xpi they give you.
+
 ## links
 - [firefox docs getting started](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
 - [webext](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/)  tool to help make plugins 
