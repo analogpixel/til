@@ -34,6 +34,9 @@ How I quickly find stuff in this repo via the header:
 - [CSS Selector Reference](til/css-selectors.md)
 ## Curl
 - [Curl resolve hostname to different IP](til/curl-resolve-to-differnt-ip.md)
+## Firefox
+- [Firefox extensios](til/firefox-extension.md)
+- [Firefox browser.storage.local](til/firefox-browser-storage-local.md)
 ## Fzf
 - [FZF Only display certain columns](til/fzf-only-display-x-col.md)
 - [FZF Select multiple items from list in fzf](til/fzf-multiple-from-list.md)
@@ -44,6 +47,8 @@ How I quickly find stuff in this repo via the header:
 - [GIT revert a file from master](til/git-revert-file-from-master.md)
 - [GIT get root directory of repo](til/git-top-level.md)
 - [Git Log](til/git-log.md)
+## Java
+- [Java check if NaN](til/java-nan.md)
 ## Javascript
 - [Javascript Code Between Imports](til/javascript-code-between-imports.md)
 ## Json
