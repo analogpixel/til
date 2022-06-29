@@ -91,6 +91,7 @@ How I quickly find stuff in this repo via the header:
 - [Python a functional decimal to hex conversion](til/python-decimal-to-hex.md)
 - [Python webserver mode](til/python-web-server.md)
 - [Python functional programming](til/python-functional-programming.md)
+- [Python Install jupyterhub](til/python-jupyerhub-install.md)
 - [Python bitwise operators](til/python-bitwise-operators.md)
 - [Python Change working directory (cwd)](til/python-change-working-directory.md)
 - [Python expand tilde in path](til/python-expand-unix-path.md)
