@@ -51,6 +51,7 @@ Chezmoi dotfile manager,til/chezmoi-dotfile-manager.md
 Kubernetes health probes,til/kubernetes-health-probes.md
 Javascript Code Between Imports,til/javascript-code-between-imports.md
 Bash echo no newline,til/bash-echo-no-newline.md
+Awk counting words,til/awk-counting-words.md
 JSON gron the grepper for json,til/json-gron-cli-utility.md
 CLI date format options,til/cli-date-format.md
 Systemd basic unit service,til/systemd-basic-unit-service.md
