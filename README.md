@@ -50,6 +50,8 @@ How I quickly find stuff in this repo via the header:
 - [GIT revert a file from master](til/git-revert-file-from-master.md)
 - [GIT get root directory of repo](til/git-top-level.md)
 - [Git Log](til/git-log.md)
+## Grep
+- [Grep show regex matches](til/grep-show-regex-matches.md)
 ## Java
 - [Java check if NaN](til/java-nan.md)
 ## Javascript

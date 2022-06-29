@@ -56,6 +56,7 @@ JSON gron the grepper for json,til/json-gron-cli-utility.md
 CLI date format options,til/cli-date-format.md
 Systemd basic unit service,til/systemd-basic-unit-service.md
 Kubernetes explain,til/kubectl-explain.md
+Grep show regex matches,til/grep-show-regex-matches.md
 Ansible Dump out all the host inventory,til/ansible-dump-host-inventory.md
 Vim Sessions,til/vim-sessions.md
 Bash Loop till string is empty,til/bash-loop-untill-empty.md
