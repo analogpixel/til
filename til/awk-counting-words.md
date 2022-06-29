@@ -18,3 +18,6 @@ awk '{for(i=1;i<=NF;i++) a[$i]++} END {for(k in a) print k,a[k]}' testfile
 - loop over every field
 - for each field(word) increment that key in the array
 - print out all the keys/values at the end
+
+## Other ways
+- `sort | uniq -c ` can also count words, make sort you sort your list first so all the duplicate words are next to each other.
