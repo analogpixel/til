@@ -20,6 +20,7 @@ How I quickly find stuff in this repo via the header:
 - [Bash test](til/bash-test.md)
 - [Bash last command exit status](til/bash-last-proc-exit-status.md)
 - [Bash Yes/No Prompt](til/bash-yes-no-prompt.md)
+- [Bash variable defaults :- vs :=](til/bash-variable-defaults.md)
 - [Bash echo no newline](til/bash-echo-no-newline.md)
 - [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
 - [Bash split string by column separator](til/bash-split-string-column.md)

@@ -18,6 +18,7 @@ Python a functional decimal to hex conversion,til/python-decimal-to-hex.md
 Git Detect if you are in git repo,til/git-detect-in-repo.md
 Python webserver mode,til/python-web-server.md
 CLI hatop tui for haproxy,til/cli-hatop.md
+Bash variable defaults :- vs :=,til/bash-variable-defaults.md
 GIT revert a file from master,til/git-revert-file-from-master.md
 Python functional programming,til/python-functional-programming.md
 Vim Tabs,til/vim-tabs.md
