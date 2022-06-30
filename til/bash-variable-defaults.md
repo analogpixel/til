@@ -1,7 +1,7 @@
 # Bash variable defaults :- vs :=
 
 How to set default values in bash:
-- `:-` doesn't update empty var, `bar`, just `foo`  `foo=echo ${bar:=something}`
+- `:-` doesn't update empty var, `bar`, just `foo`  `foo=echo ${bar:-something}`
 - `:=` will update empty var, `bar`,  and `foo` `foo=${bar:=something}`
 
 
