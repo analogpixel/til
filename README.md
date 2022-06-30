@@ -17,6 +17,8 @@ How I quickly find stuff in this repo via the header:
 - [Azure grow centos disk](til/azure-grow-centos-disk.md)
 ## Bash
 - [Bash cycle through arguments](til/bash-cycle-through-arguments.md)
+- [Bash test](til/bash-test.md)
+- [Bash last command exit status](til/bash-last-proc-exit-status.md)
 - [Bash Yes/No Prompt](til/bash-yes-no-prompt.md)
 - [Bash echo no newline](til/bash-echo-no-newline.md)
 - [Bash Loop till string is empty](til/bash-loop-untill-empty.md)

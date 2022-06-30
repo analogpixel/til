@@ -2,8 +2,10 @@ Systemd clean up journalctl logs,til/systemd-cleanup-journalctl-logs.md
 Bash cycle through arguments,til/bash-cycle-through-arguments.md
 Git remove files from staging  (local commit),til/git-remove-from-staging.md
 Macos hide all windows,til/macos-hide-all-windows.md
+Bash test,til/bash-test.md
 kubernetes list all api resources in cluster,til/kubernetes-list-all-api-resources.md
 FZF Only display certain columns,til/fzf-only-display-x-col.md
+Bash last command exit status,til/bash-last-proc-exit-status.md
 Bash Yes/No Prompt,til/bash-yes-no-prompt.md
 Firefox extensios,til/firefox-extension.md
 SSH Debugging a conneciton,til/ssh-debug-connection.md
