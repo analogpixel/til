@@ -5,12 +5,14 @@ Macos hide all windows,til/macos-hide-all-windows.md
 Bash test,til/bash-test.md
 kubernetes list all api resources in cluster,til/kubernetes-list-all-api-resources.md
 FZF Only display certain columns,til/fzf-only-display-x-col.md
+GoogleCloud Logs,til/google-cloud-logs.md
 Bash last command exit status,til/bash-last-proc-exit-status.md
 Bash Yes/No Prompt,til/bash-yes-no-prompt.md
 Firefox extensios,til/firefox-extension.md
 SSH Debugging a conneciton,til/ssh-debug-connection.md
 CLI Remote pbcopy (remote data to local clipboard),til/cli-remote-pbcopy.md
 Curl resolve hostname to different IP,til/curl-resolve-to-differnt-ip.md
+Tello change wifi mode,til/tello-change-wifi-mode.md
 Sqlite csv query,til/sqlite-csv-query.md
 Systemd Debug tmp cleaner,til/systemd-debug-tmp-cleaner.md
 Prometheus-operator Pod Monitors vs. Service Monitors,til/kubernetes_operator-podmonitor-vs-servicemonitor.md
@@ -25,7 +27,7 @@ Vim Tabs,til/vim-tabs.md
 RPM Fix Corrupt database,til/rpm-fix-corrupt-database.md
 Ansible adhoc command,til/ansible-adhoc-command.md
 Misc How to Unsubscribe from ...,til/misc-unsubscribe-from.md
-Raspberry Pi firefox,til/raspberrypi-firefox.md
+RaspberryPi firefox,til/raspberrypi-firefox.md
 Azure grow centos disk,til/azure-grow-centos-disk.md
 Python Install jupyterhub,til/python-jupyerhub-install.md
 Python bitwise operators,til/python-bitwise-operators.md
@@ -55,6 +57,7 @@ Kubernetes health probes,til/kubernetes-health-probes.md
 Javascript Code Between Imports,til/javascript-code-between-imports.md
 Bash echo no newline,til/bash-echo-no-newline.md
 Awk counting words,til/awk-counting-words.md
+Wikidata query,til/wikidata-query.md
 JSON gron the grepper for json,til/json-gron-cli-utility.md
 CLI date format options,til/cli-date-format.md
 Systemd basic unit service,til/systemd-basic-unit-service.md

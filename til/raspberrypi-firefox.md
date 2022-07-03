@@ -1,3 +1,3 @@
-# Raspberry Pi firefox
+# RaspberryPi firefox
 
 `apt install firefox-esr`

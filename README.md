@@ -53,6 +53,8 @@ How I quickly find stuff in this repo via the header:
 - [GIT revert a file from master](til/git-revert-file-from-master.md)
 - [GIT get root directory of repo](til/git-top-level.md)
 - [Git Log](til/git-log.md)
+## Googlecloud
+- [GoogleCloud Logs](til/google-cloud-logs.md)
 ## Grep
 - [Grep show regex matches](til/grep-show-regex-matches.md)
 ## Java
@@ -107,8 +109,8 @@ How I quickly find stuff in this repo via the header:
 - [Python remove non-characters from string](til/python-remove-non-alpha-characters.md)
 - [Python Sqlite](til/python-sqlite.md)
 - [Python Converting a list to a dict](til/python-dict-from-list.md)
-## Raspberry
-- [Raspberry Pi firefox](til/raspberrypi-firefox.md)
+## Raspberrypi
+- [RaspberryPi firefox](til/raspberrypi-firefox.md)
 ## Raspberypi
 - [RaspberyPi automount usb drives](til/raspberrypi-automount-volume.md)
 ## Rpm
@@ -123,10 +125,14 @@ How I quickly find stuff in this repo via the header:
 - [Systemd clean up journalctl logs](til/systemd-cleanup-journalctl-logs.md)
 - [Systemd Debug tmp cleaner](til/systemd-debug-tmp-cleaner.md)
 - [Systemd basic unit service](til/systemd-basic-unit-service.md)
+## Tello
+- [Tello change wifi mode](til/tello-change-wifi-mode.md)
 ## Vim
 - [Vim Tabs](til/vim-tabs.md)
 - [Vim Sessions](til/vim-sessions.md)
 - [Vim clipboard history](til/vim-clipboard-history.md)
+## Wikidata
+- [Wikidata query](til/wikidata-query.md)
 ## Zookeeper
 - [Zookeeper Check if alive](til/zookepper-check-alive.md)
 ---
