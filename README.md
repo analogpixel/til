@@ -141,6 +141,8 @@ How I quickly find stuff in this repo via the header:
 - [Vim clipboard history](til/vim-clipboard-history.md)
 ## Wikidata
 - [Wikidata query](til/wikidata-query.md)
+## X
+- [X remap caps lock to ctrl](til/x-remap-caps-key.md)
 ## Zookeeper
 - [Zookeeper Check if alive](til/zookepper-check-alive.md)
 ---
