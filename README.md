@@ -132,6 +132,7 @@ How I quickly find stuff in this repo via the header:
 - [Tello change wifi mode](til/tello-change-wifi-mode.md)
 ## Vim
 - [Vim Tabs](til/vim-tabs.md)
+- [Vim Jump to your last change](til/vim-jump-to-last-change.md)
 - [Vim Sessions](til/vim-sessions.md)
 - [Vim clipboard history](til/vim-clipboard-history.md)
 ## Wikidata
