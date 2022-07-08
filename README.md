@@ -20,10 +20,12 @@ How I quickly find stuff in this repo via the header:
 - [Bash test](til/bash-test.md)
 - [Bash last command exit status](til/bash-last-proc-exit-status.md)
 - [Bash Yes/No Prompt](til/bash-yes-no-prompt.md)
+- [Bash ping test](til/bash-ping-test.md)
 - [Bash variable defaults :- vs :=](til/bash-variable-defaults.md)
 - [Bash echo no newline](til/bash-echo-no-newline.md)
 - [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
 - [Bash split string by column separator](til/bash-split-string-column.md)
+- [Bash Loop over comma](til/bash-loop-over-comma.md)
 ## Blender
 - [Blender HDRI files](til/blender-hdri-file.md)
 ## Chezmoi
@@ -116,6 +118,8 @@ How I quickly find stuff in this repo via the header:
 - [RaspberryPi firefox](til/raspberrypi-firefox.md)
 ## Raspberypi
 - [RaspberyPi automount usb drives](til/raspberrypi-automount-volume.md)
+## Rclone
+- [Rclone mount cloud drives](til/rclone-mount-cloud-drives.md)
 ## Rpm
 - [RPM Fix Corrupt database](til/rpm-fix-corrupt-database.md)
 ## Ruby
