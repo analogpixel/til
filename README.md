@@ -65,6 +65,7 @@ How I quickly find stuff in this repo via the header:
 - [Java check if NaN](til/java-nan.md)
 ## Javascript
 - [Javascript Code Between Imports](til/javascript-code-between-imports.md)
+- [Javascript sort numbers](til/javascript-sort-numbers.md)
 ## Json
 - [JSON gron the grepper for json](til/json-gron-cli-utility.md)
 ## Justfile
