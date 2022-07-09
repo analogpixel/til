@@ -30,4 +30,4 @@ out.write( "---\n" )
 with open(".search", "w") as f:
     f.write( "\n".join(search_file) )
 
-os.system("git add .; git commit -am 'toc'; git push")
+os.system("git add . && git commit -am 'toc' &&  git push")
