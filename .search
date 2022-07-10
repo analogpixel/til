@@ -41,6 +41,7 @@ openssl inspect cert,til/openssl-inspect-cert.md
 NMAP scripts,til/nmap-scripts.md
 Java check if NaN,til/java-nan.md
 Math Properties of Exponents,til/math-properties-of-exponents.md
+Python working with CSV files,til/python-csv-files.md
 Ansible console a repl for ansible,til/ansible-console.md
 FZF Select multiple items from list in fzf,til/fzf-multiple-from-list.md
 Vim Jump to your last change,til/vim-jump-to-last-change.md
