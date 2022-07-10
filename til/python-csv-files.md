@@ -15,3 +15,6 @@ with open("filename.csv") as csvfile:
 ```python
 col_1 = [ x[1] for x in csv_object ] 
 ```
+
+## Links
+- https://docs.python.org/3/library/csv.html
