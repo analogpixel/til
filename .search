@@ -62,6 +62,7 @@ Chezmoi dotfile manager,til/chezmoi-dotfile-manager.md
 Kubernetes health probes,til/kubernetes-health-probes.md
 Javascript Code Between Imports,til/javascript-code-between-imports.md
 Bash echo no newline,til/bash-echo-no-newline.md
+Linux stop respawning initd service,til/linux-stop-respawning-initd-service.md
 Awk counting words,til/awk-counting-words.md
 Wikidata query,til/wikidata-query.md
 JSON gron the grepper for json,til/json-gron-cli-utility.md
