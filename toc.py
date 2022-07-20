@@ -26,6 +26,7 @@ for category in sorted(groups.keys()):
     for item in groups[category]:
         out.write("- [{}]({})\n".format(item['title'], item['file'] ))
 out.write( "---\n" )
+out.close()
 
 with open(".search", "w") as f:
     f.write( "\n".join(search_file) )
