@@ -75,6 +75,7 @@ How I quickly find stuff in this repo via the header:
 ## Kubernetes
 - [kubernetes list all api resources in cluster](til/kubernetes-list-all-api-resources.md)
 - [kubernetes Job](til/kubernetes-job.md)
+- [Kubernetes load a ssl cert into secrets](til/kubernetes-ssl-cert.md)
 - [Kubernetes health probes](til/kubernetes-health-probes.md)
 - [Kubernetes explain](til/kubectl-explain.md)
 - [kubernetes watch kubectl output](til/kubernetes-watch-kubectl.md)
