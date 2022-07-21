@@ -44,6 +44,8 @@ How I quickly find stuff in this repo via the header:
 - [Curl resolve hostname to different IP](til/curl-resolve-to-differnt-ip.md)
 ## Docker
 - [Docker Build Args](til/docker-builds-args.md)
+## Entr
+- [Entr reload a program or script on file changes](til/entr-reload-program-on-file-change.md)
 ## Firefox
 - [Firefox extensios](til/firefox-extension.md)
 - [Firefox browser.storage.local](til/firefox-browser-storage-local.md)
