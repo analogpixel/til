@@ -94,6 +94,7 @@ How I quickly find stuff in this repo via the header:
 ## Nmap
 - [NMAP scripts](til/nmap-scripts.md)
 ## Openssl
+- [Openssl create signing cert (csr)](til/openssl-create-csr.md)
 - [openssl inspect cert](til/openssl-inspect-cert.md)
 ## P5.js
 - [P5.js dynamic mask](til/p5js-dynamic-mask.md)
