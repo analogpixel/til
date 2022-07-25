@@ -18,6 +18,7 @@ How I quickly find stuff in this repo via the header:
 ## Bash
 - [Bash cycle through arguments](til/bash-cycle-through-arguments.md)
 - [Bash test](til/bash-test.md)
+- [Bash export yaml var file as environmental variables](til/bash-kubernetes-var-file-export-env.md)
 - [Bash last command exit status](til/bash-last-proc-exit-status.md)
 - [Bash Yes/No Prompt](til/bash-yes-no-prompt.md)
 - [Bash ping test](til/bash-ping-test.md)
