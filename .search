@@ -26,6 +26,7 @@ Python webserver mode,til/python-web-server.md
 CLI hatop tui for haproxy,til/cli-hatop.md
 Bash variable defaults :- vs :=,til/bash-variable-defaults.md
 GIT revert a file from master,til/git-revert-file-from-master.md
+Python logging,til/python-logging.md
 Python functional programming,til/python-functional-programming.md
 Vim Tabs,til/vim-tabs.md
 RPM Fix Corrupt database,til/rpm-fix-corrupt-database.md
