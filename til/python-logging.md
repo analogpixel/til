@@ -12,6 +12,7 @@ logging.warning("warning!")
 logging.error("oh no")
 logging.fatal("really oh no")
 
+logging.info("var1 %s  var2 %s" % var1, var2)
 ```
 
 ## log to a file
