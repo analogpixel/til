@@ -95,6 +95,7 @@ How I quickly find stuff in this repo via the header:
 - [Math Properties of Exponents](til/math-properties-of-exponents.md)
 ## Misc
 - [Misc How to Unsubscribe from ...](til/misc-unsubscribe-from.md)
+- [Misc Vesa Mounting Standards](til/misc-vesa-mounting-standards.md)
 ## Nmap
 - [NMAP scripts](til/nmap-scripts.md)
 ## Openssl

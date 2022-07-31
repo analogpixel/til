@@ -65,6 +65,7 @@ Kubernetes load a ssl cert into secrets,til/kubernetes-ssl-cert.md
 Prometheus alertmanager send test alert,til/prometheus-alertmanager-send-test.md
 Clojure reload file in repl,til/clojure-repl-reload-file.md
 Chezmoi dotfile manager,til/chezmoi-dotfile-manager.md
+Misc Vesa Mounting Standards,til/misc-vesa-mounting-standards.md
 Kubernetes health probes,til/kubernetes-health-probes.md
 Javascript Code Between Imports,til/javascript-code-between-imports.md
 Bash echo no newline,til/bash-echo-no-newline.md
