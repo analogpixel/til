@@ -75,6 +75,8 @@ How I quickly find stuff in this repo via the header:
 - [Justfile a basic example](til/justfile-basic-justfile.md)
 ## Kind
 - [Kind Using your Own docker login with Kind](til/kind-use-docker-login.md)
+## Kubectl
+- [Kubectl specify context per command](til/kubectl-context.md)
 ## Kubernetes
 - [kubernetes list all api resources in cluster](til/kubernetes-list-all-api-resources.md)
 - [kubernetes Job](til/kubernetes-job.md)

@@ -75,6 +75,7 @@ Awk counting words,til/awk-counting-words.md
 Wikidata query,til/wikidata-query.md
 JSON gron the grepper for json,til/json-gron-cli-utility.md
 CLI date format options,til/cli-date-format.md
+Kubectl specify context per command,til/kubectl-context.md
 Systemd basic unit service,til/systemd-basic-unit-service.md
 Kubernetes explain,til/kubectl-explain.md
 Grep show regex matches,til/grep-show-regex-matches.md
