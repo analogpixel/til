@@ -76,6 +76,7 @@ How I quickly find stuff in this repo via the header:
 ## Kind
 - [Kind Using your Own docker login with Kind](til/kind-use-docker-login.md)
 ## Kubectl
+- [kubectl forward a port to your local machine](til/kubectl-port-forward.md)
 - [Kubectl specify context per command](til/kubectl-context.md)
 ## Kubernetes
 - [kubernetes list all api resources in cluster](til/kubernetes-list-all-api-resources.md)

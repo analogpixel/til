@@ -64,6 +64,7 @@ kubernetes Job,til/kubernetes-job.md
 Git Log,til/git-log.md
 Kubernetes load a ssl cert into secrets,til/kubernetes-ssl-cert.md
 Prometheus alertmanager send test alert,til/prometheus-alertmanager-send-test.md
+kubectl forward a port to your local machine,til/kubectl-port-forward.md
 Clojure reload file in repl,til/clojure-repl-reload-file.md
 Chezmoi dotfile manager,til/chezmoi-dotfile-manager.md
 Misc Vesa Mounting Standards,til/misc-vesa-mounting-standards.md
