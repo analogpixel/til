@@ -42,8 +42,8 @@ fi
 
 ## Using the registy
 ```bash
-docker build -t localhost:5001/hello-app:1.0
-docker push localhost:5001/hello-app:1.0
+docker build -t localhost:5000/hello-app:1.0
+docker push localhost:5000/hello-app:1.0
 ```
 
 
