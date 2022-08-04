@@ -74,6 +74,7 @@ How I quickly find stuff in this repo via the header:
 ## Justfile
 - [Justfile a basic example](til/justfile-basic-justfile.md)
 ## Kind
+- [Kind local docker registry](til/kind-local-docker-registry.md)
 - [Kind Using your Own docker login with Kind](til/kind-use-docker-login.md)
 ## Kubectl
 - [kubectl forward a port to your local machine](til/kubectl-port-forward.md)

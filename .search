@@ -1,3 +1,4 @@
+Kind local docker registry,til/kind-local-docker-registry.md
 Systemd clean up journalctl logs,til/systemd-cleanup-journalctl-logs.md
 Bash cycle through arguments,til/bash-cycle-through-arguments.md
 Git remove files from staging  (local commit),til/git-remove-from-staging.md
