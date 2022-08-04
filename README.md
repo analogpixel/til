@@ -44,6 +44,7 @@ How I quickly find stuff in this repo via the header:
 ## Curl
 - [Curl resolve hostname to different IP](til/curl-resolve-to-differnt-ip.md)
 ## Docker
+- [Docker prevent container from exiting](til/docker-prevent-container-from-exiting.md)
 - [Docker Build Args](til/docker-builds-args.md)
 ## Entr
 - [Entr reload a program or script on file changes](til/entr-reload-program-on-file-change.md)
