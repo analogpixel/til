@@ -1,4 +1,4 @@
-# Python define modules to install
+# Python define required modules to install from file
 
 If you want to keep track of what modules your python program needs to run, you 
 can store them in a text file and call that with pip.  Great for when you

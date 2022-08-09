@@ -54,7 +54,7 @@ FZF Select multiple items from list in fzf,til/fzf-multiple-from-list.md
 Vim Jump to your last change,til/vim-jump-to-last-change.md
 X remap caps lock to ctrl,til/x-remap-caps-key.md
 GIT get root directory of repo,til/git-top-level.md
-Python define modules to install,til/python-modules-requirementstxt.md
+Python define required modules to install from file,til/python-modules-requirementstxt.md
 Ruby in juptyer notebooks,til/ruby-jupyter-notebook.md
 Python expand tilde in path,til/python-expand-unix-path.md
 RaspberyPi automount usb drives,til/raspberrypi-automount-volume.md

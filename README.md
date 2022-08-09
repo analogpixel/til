@@ -126,7 +126,7 @@ How I quickly find stuff in this repo via the header:
 - [Python bitwise operators](til/python-bitwise-operators.md)
 - [Python Change working directory (cwd)](til/python-change-working-directory.md)
 - [Python working with CSV files](til/python-csv-files.md)
-- [Python define modules to install](til/python-modules-requirementstxt.md)
+- [Python define required modules to install from file](til/python-modules-requirementstxt.md)
 - [Python expand tilde in path](til/python-expand-unix-path.md)
 - [Python Date and Time](til/python-date-time.md)
 - [Python set theory](til/python-set-theory.md)
