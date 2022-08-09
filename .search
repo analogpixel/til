@@ -2,6 +2,7 @@ Kind local docker registry,til/kind-local-docker-registry.md
 Docker prevent container from exiting,til/docker-prevent-container-from-exiting.md
 Systemd clean up journalctl logs,til/systemd-cleanup-journalctl-logs.md
 Bash cycle through arguments,til/bash-cycle-through-arguments.md
+Bash shell vs. environment variables,til/bash-shell-vs-environment-variables.md
 Git remove files from staging  (local commit),til/git-remove-from-staging.md
 Macos hide all windows,til/macos-hide-all-windows.md
 Bash test,til/bash-test.md
@@ -57,6 +58,7 @@ GIT get root directory of repo,til/git-top-level.md
 Python define required modules to install from file,til/python-modules-requirementstxt.md
 Ruby in juptyer notebooks,til/ruby-jupyter-notebook.md
 Python expand tilde in path,til/python-expand-unix-path.md
+Bash run actual command and not alias,til/bash-run-command-not-alias.md
 RaspberyPi automount usb drives,til/raspberrypi-automount-volume.md
 Python Date and Time,til/python-date-time.md
 P5.js dynamic mask,til/p5js-dynamic-mask.md
@@ -85,6 +87,7 @@ Grep show regex matches,til/grep-show-regex-matches.md
 Ansible Dump out all the host inventory,til/ansible-dump-host-inventory.md
 Vim Sessions,til/vim-sessions.md
 Bash Loop till string is empty,til/bash-loop-untill-empty.md
+Python Load Variables from Environmental Variables,til/python-load-vars-from-environ-vars.md
 Rclone mount cloud drives,til/rclone-mount-cloud-drives.md
 Kind Using your Own docker login with Kind,til/kind-use-docker-login.md
 Ansible debugger,til/ansible-debugger.md
