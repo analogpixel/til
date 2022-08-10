@@ -107,6 +107,7 @@ Packer in a docker container,til/ssh_auth_in_docker_container.md
 Zookeeper Check if alive,til/zookepper-check-alive.md
 Entr reload a program or script on file changes,til/entr-reload-program-on-file-change.md
 Python Sqlite,til/python-sqlite.md
+Python Assignment in Expression (assign variable in if condition),til/python-assignment-in-expression.md
 Blender HDRI files,til/blender-hdri-file.md
 Clojure database access sqlite/jdbc,til/clojure-database-access.md
 Docker Build Args,til/docker-builds-args.md

@@ -136,6 +136,7 @@ How I quickly find stuff in this repo via the header:
 - [Python Add or Update to a list in a dict](til/python-add_update_list_in_dict.md)
 - [Python remove non-characters from string](til/python-remove-non-alpha-characters.md)
 - [Python Sqlite](til/python-sqlite.md)
+- [Python Assignment in Expression (assign variable in if condition)](til/python-assignment-in-expression.md)
 - [Python Converting a list to a dict](til/python-dict-from-list.md)
 ## Raspberrypi
 - [RaspberryPi firefox](til/raspberrypi-firefox.md)
