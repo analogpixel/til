@@ -163,6 +163,7 @@ How I quickly find stuff in this repo via the header:
 - [Vim Tabs](til/vim-tabs.md)
 - [Vim Jump to your last change](til/vim-jump-to-last-change.md)
 - [Vim Sessions](til/vim-sessions.md)
+- [Vim Ignore Case](til/vim-ignore-case.md)
 - [Vim clipboard history](til/vim-clipboard-history.md)
 ## Wikidata
 - [Wikidata query](til/wikidata-query.md)
