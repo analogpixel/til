@@ -24,6 +24,7 @@ How I quickly find stuff in this repo via the header:
 - [Bash Yes/No Prompt](til/bash-yes-no-prompt.md)
 - [Bash ping test](til/bash-ping-test.md)
 - [Bash variable defaults :- vs :=](til/bash-variable-defaults.md)
+- [Bash Argument Parser](til/bash-argument-parser.md)
 - [Bash run actual command and not alias](til/bash-run-command-not-alias.md)
 - [Bash echo no newline](til/bash-echo-no-newline.md)
 - [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
