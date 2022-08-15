@@ -47,10 +47,12 @@ Macos Font smoothing,til/macos-font-smoothing.md
 Python Change working directory (cwd),til/python-change-working-directory.md
 openssl inspect cert,til/openssl-inspect-cert.md
 NMAP scripts,til/nmap-scripts.md
+Pgrep character Limit,til/pgrep-character-limit.md
 Bash Argument Parser,til/bash-argument-parser.md
 Java check if NaN,til/java-nan.md
 Math Properties of Exponents,til/math-properties-of-exponents.md
 Python working with CSV files,til/python-csv-files.md
+Cut space delimiter work like AWK,til/cut-work-like-awk.md
 Ansible console a repl for ansible,til/ansible-console.md
 FZF Select multiple items from list in fzf,til/fzf-multiple-from-list.md
 Vim Jump to your last change,til/vim-jump-to-last-change.md

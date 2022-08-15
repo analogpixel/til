@@ -46,6 +46,8 @@ How I quickly find stuff in this repo via the header:
 - [CSS Selector Reference](til/css-selectors.md)
 ## Curl
 - [Curl resolve hostname to different IP](til/curl-resolve-to-differnt-ip.md)
+## Cut
+- [Cut space delimiter work like AWK](til/cut-work-like-awk.md)
 ## Docker
 - [Docker prevent container from exiting](til/docker-prevent-container-from-exiting.md)
 - [Docker Build Args](til/docker-builds-args.md)
@@ -113,6 +115,8 @@ How I quickly find stuff in this repo via the header:
 - [P5.js dynamic mask](til/p5js-dynamic-mask.md)
 ## Packer
 - [Packer in a docker container](til/ssh_auth_in_docker_container.md)
+## Pgrep
+- [Pgrep character Limit](til/pgrep-character-limit.md)
 ## Prometheus
 - [prometheus promql count change in value](til/prometheus-change-in-value.md)
 - [Prometheus alertmanager send test alert](til/prometheus-alertmanager-send-test.md)
