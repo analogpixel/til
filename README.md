@@ -128,6 +128,7 @@ How I quickly find stuff in this repo via the header:
 - [Python webserver mode](til/python-web-server.md)
 - [Python logging](til/python-logging.md)
 - [Python functional programming](til/python-functional-programming.md)
+- [Python Dictionary Comprehension](til/python-dictionary-comprehension.md)
 - [Python enumerate indexed foreach](til/python-enumerate-indexed-foreach.md)
 - [Python Install jupyterhub](til/python-jupyerhub-install.md)
 - [Python bitwise operators](til/python-bitwise-operators.md)
