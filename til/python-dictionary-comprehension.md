@@ -10,6 +10,11 @@ you could use that to check if one list is a subset of another list:
 def a_subset_b(a,b):
     tmp = {z: True for z in b}
     return all( [ tmp.get(x, False) for x in a] )
+
+# or get the intersection of lists:
+def a_intersect_b(a,b):
+    tmp = {z: True for z in b}
+    return list(filter( lambda z: z in tmp, a))
 ```
 
 More examples:
