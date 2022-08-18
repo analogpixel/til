@@ -46,6 +46,7 @@ How I quickly find stuff in this repo via the header:
 - [CSS Selector Reference](til/css-selectors.md)
 ## Curl
 - [Curl resolve hostname to different IP](til/curl-resolve-to-differnt-ip.md)
+- [Curl Set Header Values](til/curl-set-headers.md)
 ## Cut
 - [Cut space delimiter work like AWK](til/cut-work-like-awk.md)
 ## Docker
