@@ -145,6 +145,8 @@ How I quickly find stuff in this repo via the header:
 - [Python Sqlite](til/python-sqlite.md)
 - [Python Assignment in Expression (assign variable in if condition)](til/python-assignment-in-expression.md)
 - [Python Converting a list to a dict](til/python-dict-from-list.md)
+## Raspberry
+- [Raspberry Pi Disable Wifi](til/raspberrypi-disable-wifi.md)
 ## Raspberrypi
 - [RaspberryPi firefox](til/raspberrypi-firefox.md)
 ## Raspberypi
