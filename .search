@@ -64,6 +64,7 @@ GIT get root directory of repo,til/git-top-level.md
 Python define required modules to install from file,til/python-modules-requirementstxt.md
 Ruby in juptyer notebooks,til/ruby-jupyter-notebook.md
 Python expand tilde in path,til/python-expand-unix-path.md
+Bash Lock File with Flock,til/bash-lockfile-with-flock.md
 Bash run actual command and not alias,til/bash-run-command-not-alias.md
 RaspberyPi automount usb drives,til/raspberrypi-automount-volume.md
 Python Date and Time,til/python-date-time.md
