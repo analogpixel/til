@@ -8,6 +8,7 @@ How I quickly find stuff in this repo via the header:
 ## Ansible
 - [Ansible adhoc command](til/ansible-adhoc-command.md)
 - [Ansible console a repl for ansible](til/ansible-console.md)
+- [Ansible Run Task From Role](til/ansible-run-task-from-role.md)
 - [Ansible Dump out all the host inventory](til/ansible-dump-host-inventory.md)
 - [Ansible debugger](til/ansible-debugger.md)
 ## Awk
