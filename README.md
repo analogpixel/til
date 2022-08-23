@@ -12,6 +12,7 @@ How I quickly find stuff in this repo via the header:
 - [Ansible Run Task From Role](til/ansible-run-task-from-role.md)
 - [Ansible Dump out all the host inventory](til/ansible-dump-host-inventory.md)
 - [Ansible debugger](til/ansible-debugger.md)
+- [Ansible Dry Run (check)](til/ansible-dry-run.md)
 ## Awk
 - [AWK How to clean up logs with Java Stack Traces in them](til/awk-trim-java-stack-trace-logs.md)
 - [Awk counting words](til/awk-counting-words.md)

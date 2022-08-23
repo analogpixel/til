@@ -101,6 +101,7 @@ Rclone mount cloud drives,til/rclone-mount-cloud-drives.md
 Kind Using your Own docker login with Kind,til/kind-use-docker-login.md
 Ansible debugger,til/ansible-debugger.md
 kubernetes watch kubectl output,til/kubernetes-watch-kubectl.md
+Ansible Dry Run (check),til/ansible-dry-run.md
 Firefox browser.storage.local,til/firefox-browser-storage-local.md
 Python set theory,til/python-set-theory.md
 Kubernetes pod placement,til/kubernetes-pod-placement.md
