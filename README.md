@@ -16,6 +16,7 @@ How I quickly find stuff in this repo via the header:
 ## Awk
 - [AWK How to clean up logs with Java Stack Traces in them](til/awk-trim-java-stack-trace-logs.md)
 - [Awk counting words](til/awk-counting-words.md)
+- [Awk random number in range](til/awk-random-range.md)
 ## Azure
 - [Azure grow centos disk](til/azure-grow-centos-disk.md)
 ## Bash
