@@ -70,6 +70,7 @@ Bash run actual command and not alias,til/bash-run-command-not-alias.md
 Ansible template task to run a role,til/ansible-template-task-role.md
 RaspberyPi automount usb drives,til/raspberrypi-automount-volume.md
 Python Date and Time,til/python-date-time.md
+prometheus operator blackbox probes,til/prometheus-operator-blackbox-probes.md
 P5.js dynamic mask,til/p5js-dynamic-mask.md
 CSS Selector Reference,til/css-selectors.md
 FZF Return default value if user exits with esc/ctrl-c,til/fzf-default-value-on-exit.md

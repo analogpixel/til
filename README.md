@@ -126,6 +126,7 @@ How I quickly find stuff in this repo via the header:
 - [Pgrep character Limit](til/pgrep-character-limit.md)
 ## Prometheus
 - [prometheus promql count change in value](til/prometheus-change-in-value.md)
+- [prometheus operator blackbox probes](til/prometheus-operator-blackbox-probes.md)
 - [Prometheus alertmanager send test alert](til/prometheus-alertmanager-send-test.md)
 ## Prometheus-operator
 - [Prometheus-operator Pod Monitors vs. Service Monitors](til/kubernetes_operator-podmonitor-vs-servicemonitor.md)
