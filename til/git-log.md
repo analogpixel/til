@@ -1,5 +1,8 @@
 # Git Log
 
+## Search everything for a string
+`git log -S "needle" -p ` 
+
 ## List by author
 `git log --author=""`
 
