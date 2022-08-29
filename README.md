@@ -72,6 +72,8 @@ How I quickly find stuff in this repo via the header:
 - [GIT revert a file from master](til/git-revert-file-from-master.md)
 - [GIT get root directory of repo](til/git-top-level.md)
 - [Git Log](til/git-log.md)
+## Google
+- [Google Cloud Auth to Docker Registry](til/google-cloud-auth-docker.md)
 ## Googlecloud
 - [GoogleCloud Logs](til/google-cloud-logs.md)
 ## Grep
