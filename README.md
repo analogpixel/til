@@ -176,6 +176,7 @@ How I quickly find stuff in this repo via the header:
 - [Tello change wifi mode](til/tello-change-wifi-mode.md)
 ## Vim
 - [Vim Tabs](til/vim-tabs.md)
+- [Vim add to openwith in macos](til/vim-add-to-openwith-macos.md)
 - [Vim Jump to your last change](til/vim-jump-to-last-change.md)
 - [Vim Sessions](til/vim-sessions.md)
 - [Vim Ignore Case](til/vim-ignore-case.md)
