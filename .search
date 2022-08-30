@@ -96,6 +96,7 @@ Kubectl specify context per command,til/kubectl-context.md
 Systemd basic unit service,til/systemd-basic-unit-service.md
 Kubernetes explain,til/kubectl-explain.md
 Grep show regex matches,til/grep-show-regex-matches.md
+Ansible create a random password,til/ansible-create-random-password.md
 Ansible Dump out all the host inventory,til/ansible-dump-host-inventory.md
 Vim Sessions,til/vim-sessions.md
 Awk random number in range,til/awk-random-range.md
