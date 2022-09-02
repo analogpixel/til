@@ -133,5 +133,6 @@ Docker Build Args,til/docker-builds-args.md
 Macos find process listening on port,til/macos-find-listening-port.md
 Vim clipboard history,til/vim-clipboard-history.md
 Python Converting a list to a dict,til/python-dict-from-list.md
+Python format a string (fstring),til/python-format-string.md
 Kubernetes pod life cycle start/stop hooks,til/kubernetes-life-cycle.md
 kubernetes host aliases (/etc/hosts),til/kubernetes-host-aliases.md
