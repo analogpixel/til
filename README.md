@@ -113,6 +113,7 @@ How I quickly find stuff in this repo via the header:
 - [Macos Font smoothing](til/macos-font-smoothing.md)
 - [Macos find process listening on port](til/macos-find-listening-port.md)
 ## Math
+- [Math polar to cartesian](til/math-polar-to-caresian.md)
 - [Math Properties of Exponents](til/math-properties-of-exponents.md)
 ## Misc
 - [Misc How to Unsubscribe from ...](til/misc-unsubscribe-from.md)
@@ -124,6 +125,7 @@ How I quickly find stuff in this repo via the header:
 - [openssl inspect cert](til/openssl-inspect-cert.md)
 ## P5.js
 - [P5.js dynamic mask](til/p5js-dynamic-mask.md)
+- [P5.js set size to window size](til/p5js-set-size-of-window.md)
 ## Packer
 - [Packer in a docker container](til/ssh_auth_in_docker_container.md)
 ## Pgrep
