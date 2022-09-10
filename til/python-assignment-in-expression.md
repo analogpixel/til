@@ -1,4 +1,4 @@
-# Python Assignment in Expression (assign variable in if condition)
+# Python Assignment in Expression (assign variable in if condition) The walrus operator :=
 
 To use the results of of your conditional you can use the `:=` operator 
 
