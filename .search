@@ -123,6 +123,7 @@ Bash split string by column separator,til/bash-split-string-column.md
 Vim Ignore Case,til/vim-ignore-case.md
 Clojure working with sequences,til/clojure-sequences.md
 Bash Loop over comma,til/bash-loop-over-comma.md
+Kubectl mc (multicluster search),til/kubectl-mc.md
 Python remove non-characters from string,til/python-remove-non-alpha-characters.md
 Google Cloud Auth to Docker Registry,til/google-cloud-auth-docker.md
 Justfile a basic example,til/justfile-basic-justfile.md

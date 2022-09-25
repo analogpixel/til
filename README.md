@@ -95,6 +95,7 @@ How I quickly find stuff in this repo via the header:
 ## Kubectl
 - [kubectl forward a port to your local machine](til/kubectl-port-forward.md)
 - [Kubectl specify context per command](til/kubectl-context.md)
+- [Kubectl mc (multicluster search)](til/kubectl-mc.md)
 ## Kubernetes
 - [kubernetes list all api resources in cluster](til/kubernetes-list-all-api-resources.md)
 - [Kubernetes service and pod dns names](til/kubernetes-service-and-pod-dns.md)
