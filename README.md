@@ -32,6 +32,7 @@ How I quickly find stuff in this repo via the header:
 - [Bash Argument Parser](til/bash-argument-parser.md)
 - [Bash Lock File with Flock](til/bash-lockfile-with-flock.md)
 - [Bash run actual command and not alias](til/bash-run-command-not-alias.md)
+- [Bash replace a block of text](til/bash-replace-block-of-text.md)
 - [Bash echo no newline](til/bash-echo-no-newline.md)
 - [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
 - [Bash split string by column separator](til/bash-split-string-column.md)

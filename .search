@@ -79,6 +79,7 @@ P5.js dynamic mask,til/p5js-dynamic-mask.md
 CSS Selector Reference,til/css-selectors.md
 FZF Return default value if user exits with esc/ctrl-c,til/fzf-default-value-on-exit.md
 kubernetes Job,til/kubernetes-job.md
+Bash replace a block of text,til/bash-replace-block-of-text.md
 Git Log,til/git-log.md
 Kubernetes load a ssl cert into secrets,til/kubernetes-ssl-cert.md
 Prometheus alertmanager send test alert,til/prometheus-alertmanager-send-test.md
