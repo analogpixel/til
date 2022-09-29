@@ -6,7 +6,7 @@ How I quickly find stuff in this repo via the header:
  ## Affinity
 - [Affinity Designer coloring tutorial](til/afinity_designer-vectorize.md)
 ## Ansible
-- [Ansible load a variable, dynamically, from another host](til/ansible-load-var-from-another-host.md)
+- [Ansible load a variable dynamically from another host](til/ansible-load-var-from-another-host.md)
 - [Ansible adhoc command](til/ansible-adhoc-command.md)
 - [Ansible console a repl for ansible](til/ansible-console.md)
 - [Ansible template task to run a role](til/ansible-template-task-role.md)

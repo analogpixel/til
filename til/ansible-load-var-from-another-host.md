@@ -1,4 +1,4 @@
-# Ansible load a variable, dynamically, from another host
+# Ansible load a variable dynamically from another host
 
 Sometimes in ansible you need a certain host to run a command:
 
