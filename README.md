@@ -178,6 +178,8 @@ How I quickly find stuff in this repo via the header:
 - [RPM Fix Corrupt database](til/rpm-fix-corrupt-database.md)
 ## Ruby
 - [Ruby in juptyer notebooks](til/ruby-jupyter-notebook.md)
+## Rust
+- [Rust debug print a variable](til/rust-debug-print.md)
 ## Sqlite
 - [Sqlite csv query](til/sqlite-csv-query.md)
 ## Ssh
