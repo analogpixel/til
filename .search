@@ -84,6 +84,7 @@ FZF Return default value if user exits with esc/ctrl-c,til/fzf-default-value-on-
 kubernetes Job,til/kubernetes-job.md
 Bash replace a block of text,til/bash-replace-block-of-text.md
 Git Log,til/git-log.md
+Grafana show all annotations,til/grafana-show-all-annotations.md
 Kubernetes load a ssl cert into secrets,til/kubernetes-ssl-cert.md
 Prometheus alertmanager send test alert,til/prometheus-alertmanager-send-test.md
 kubectl forward a port to your local machine,til/kubectl-port-forward.md
@@ -133,6 +134,7 @@ Google Cloud Auth to Docker Registry,til/google-cloud-auth-docker.md
 Justfile a basic example,til/justfile-basic-justfile.md
 Packer in a docker container,til/ssh_auth_in_docker_container.md
 Zookeeper Check if alive,til/zookepper-check-alive.md
+Bash Convert CSV list to JSON array,til/bash-csv-list-to-json-array.md
 Entr reload a program or script on file changes,til/entr-reload-program-on-file-change.md
 Python Sqlite,til/python-sqlite.md
 Python Assignment in Expression (assign variable in if condition) The walrus operator :=,til/python-assignment-in-expression.md
