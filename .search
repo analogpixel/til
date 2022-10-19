@@ -51,6 +51,7 @@ Python bitwise operators,til/python-bitwise-operators.md
 prometheus promql count change in value,til/prometheus-change-in-value.md
 AWK How to clean up logs with Java Stack Traces in them,til/awk-trim-java-stack-trace-logs.md
 Macos Font smoothing,til/macos-font-smoothing.md
+kubernetes diff 2 manifest files,til/kubernetes-diff-manifests.md
 Python Change working directory (cwd),til/python-change-working-directory.md
 openssl inspect cert,til/openssl-inspect-cert.md
 Raspberry Pi Disable Wifi,til/raspberrypi-disable-wifi.md
