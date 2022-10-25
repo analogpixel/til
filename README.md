@@ -133,6 +133,7 @@ How I quickly find stuff in this repo via the header:
 - [Openssl create signing cert (csr)](til/openssl-create-csr.md)
 - [openssl inspect cert](til/openssl-inspect-cert.md)
 ## P5.js
+- [P5.JS perfect gif loop](til/p5js-perfect-gif-loop.md)
 - [P5.js dynamic mask](til/p5js-dynamic-mask.md)
 - [P5.js set size to window size](til/p5js-set-size-of-window.md)
 ## Packer
