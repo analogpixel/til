@@ -105,6 +105,7 @@ How I quickly find stuff in this repo via the header:
 - [Kubectl mc (multicluster search)](til/kubectl-mc.md)
 ## Kubernetes
 - [kubernetes list all api resources in cluster](til/kubernetes-list-all-api-resources.md)
+- [kubernetes list cluster versions](til/kubectl-list-cluster-versions.md)
 - [Kubernetes service and pod dns names](til/kubernetes-service-and-pod-dns.md)
 - [kubernetes diff 2 manifest files](til/kubernetes-diff-manifests.md)
 - [kubernetes Job](til/kubernetes-job.md)
