@@ -1,0 +1,7 @@
+# Ipsec view status
+
+`ipsec whack --trafficstatus`  : will show what tunnels are up
+`ipsec status`  : shows more details of what is going on with tunnels.
+
+
+https://libreswan.org/wiki/How_to_read_status_output
