@@ -109,6 +109,7 @@ How I quickly find stuff in this repo via the header:
 - [kubernetes list cluster versions](til/kubectl-list-cluster-versions.md)
 - [Kubernetes service and pod dns names](til/kubernetes-service-and-pod-dns.md)
 - [kubernetes diff 2 manifest files](til/kubernetes-diff-manifests.md)
+- [kubernetes roll out new image](til/kubernetes-roll-out-new-image.md)
 - [kubernetes Job](til/kubernetes-job.md)
 - [Kubernetes load a ssl cert into secrets](til/kubernetes-ssl-cert.md)
 - [Kubernetes health probes](til/kubernetes-health-probes.md)
