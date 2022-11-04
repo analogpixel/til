@@ -112,6 +112,7 @@ How I quickly find stuff in this repo via the header:
 - [Kubernetes load a ssl cert into secrets](til/kubernetes-ssl-cert.md)
 - [Kubernetes health probes](til/kubernetes-health-probes.md)
 - [Kubernetes explain](til/kubectl-explain.md)
+- [kubernetes labels and selectors](til/kubernetes-labels-selectors.md)
 - [kubernetes watch kubectl output](til/kubernetes-watch-kubectl.md)
 - [Kubernetes pod placement](til/kubernetes-pod-placement.md)
 - [Kubernetes pod life cycle start/stop hooks](til/kubernetes-life-cycle.md)
