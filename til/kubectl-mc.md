@@ -17,3 +17,7 @@ kubectl krew install mc
 kubectl mc -r prod_us -- get pods -n my-namespace
 ```
 
+```
+# redeploy a daemonset across all clusters
+k mc -r <cluster_match> -- rollout restart daemonset/<my-daemon-set>
+```
