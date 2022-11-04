@@ -109,7 +109,6 @@ CLI date format options,til/cli-date-format.md
 Kubectl specify context per command,til/kubectl-context.md
 Systemd basic unit service,til/systemd-basic-unit-service.md
 Kubernetes explain,til/kubectl-explain.md
-kubernetes labels and selectors,til/kubernetes-labels-selectors.md
 Grep show regex matches,til/grep-show-regex-matches.md
 Ansible create a random password,til/ansible-create-random-password.md
 Ansible Dump out all the host inventory,til/ansible-dump-host-inventory.md
@@ -131,6 +130,7 @@ Python Add or Update to a list in a dict,til/python-add_update_list_in_dict.md
 Javascript sort numbers,til/javascript-sort-numbers.md
 Bash split string by column separator,til/bash-split-string-column.md
 Vim Ignore Case,til/vim-ignore-case.md
+kubectl labels and selectors,til/kubectl-labels-and-selectors.md
 Clojure working with sequences,til/clojure-sequences.md
 Bash Loop over comma,til/bash-loop-over-comma.md
 Kubectl mc (multicluster search),til/kubectl-mc.md
