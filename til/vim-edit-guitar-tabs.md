@@ -26,3 +26,15 @@ and make your edits
 characters or spaces in them already, but `virtualedit=all`  changes that 
 so you can navigate anywhere on the screen and put in text if you want.
 - the above config only activates if the files ends in `.tab`  
+
+## Common Tab Symbols
+
+- `h` or `^` 	hammer on
+- `p` or `^` 	pull off
+- `b` bend string up
+- `r` release bend
+- `/` slide up
+- `\` slide down
+- `v` or `~` vibrato
+- `t` right hand tap
+- `x` play 'note' with heavy damping
