@@ -63,6 +63,8 @@ How I quickly find stuff in this repo via the header:
 ## Docker
 - [Docker prevent container from exiting](til/docker-prevent-container-from-exiting.md)
 - [Docker Build Args](til/docker-builds-args.md)
+## Editing
+- [Editing Guitar Tabs in Vim](til/vim-edit-guitar-tabs.md)
 ## Entr
 - [Entr reload a program or script on file changes](til/entr-reload-program-on-file-change.md)
 ## Firefox

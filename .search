@@ -10,6 +10,7 @@ Bash test,til/bash-test.md
 kubernetes list all api resources in cluster,til/kubernetes-list-all-api-resources.md
 FZF Only display certain columns,til/fzf-only-display-x-col.md
 Bash export yaml var file as environmental variables,til/bash-kubernetes-var-file-export-env.md
+Editing Guitar Tabs in Vim,til/vim-edit-guitar-tabs.md
 Math polar to cartesian,til/math-polar-to-caresian.md
 Python convert case,til/python-convert-case.md
 GoogleCloud Logs,til/google-cloud-logs.md
