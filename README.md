@@ -37,6 +37,7 @@ How I quickly find stuff in this repo via the header:
 - [Bash replace a block of text](til/bash-replace-block-of-text.md)
 - [Bash echo no newline](til/bash-echo-no-newline.md)
 - [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
+- [Bash pause/stop output](til/bash-pause-output.md)
 - [Bash split string by column separator](til/bash-split-string-column.md)
 - [Bash Loop over comma](til/bash-loop-over-comma.md)
 - [Bash Convert CSV list to JSON array](til/bash-csv-list-to-json-array.md)

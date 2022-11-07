@@ -120,6 +120,7 @@ Bash Loop till string is empty,til/bash-loop-untill-empty.md
 Python Load Variables from Environmental Variables,til/python-load-vars-from-environ-vars.md
 Rclone mount cloud drives,til/rclone-mount-cloud-drives.md
 Kind Using your Own docker login with Kind,til/kind-use-docker-login.md
+Bash pause/stop output,til/bash-pause-output.md
 Ansible debugger,til/ansible-debugger.md
 kubernetes watch kubectl output,til/kubernetes-watch-kubectl.md
 Ansible Dry Run (check),til/ansible-dry-run.md
