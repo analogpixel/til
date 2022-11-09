@@ -57,6 +57,7 @@ How I quickly find stuff in this repo via the header:
 ## Css
 - [CSS Selector Reference](til/css-selectors.md)
 ## Curl
+- [Curl sending emails](til/curl-send-mail.md)
 - [Curl resolve hostname to different IP](til/curl-resolve-to-differnt-ip.md)
 - [Curl Set Header Values](til/curl-set-headers.md)
 ## Cut

@@ -3,6 +3,7 @@ Kind local docker registry,til/kind-local-docker-registry.md
 Docker prevent container from exiting,til/docker-prevent-container-from-exiting.md
 Systemd clean up journalctl logs,til/systemd-cleanup-journalctl-logs.md
 Bash cycle through arguments,til/bash-cycle-through-arguments.md
+Curl sending emails,til/curl-send-mail.md
 Bash shell vs. environment variables,til/bash-shell-vs-environment-variables.md
 Git remove files from staging  (local commit),til/git-remove-from-staging.md
 Macos hide all windows,til/macos-hide-all-windows.md
