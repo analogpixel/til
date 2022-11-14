@@ -176,6 +176,7 @@ How I quickly find stuff in this repo via the header:
 - [Python Load Variables from Environmental Variables](til/python-load-vars-from-environ-vars.md)
 - [Python set theory](til/python-set-theory.md)
 - [Python Add or Update to a list in a dict](til/python-add_update_list_in_dict.md)
+- [Python cli template](til/python-cli-template.md)
 - [Python remove non-characters from string](til/python-remove-non-alpha-characters.md)
 - [Python Sqlite](til/python-sqlite.md)
 - [Python Assignment in Expression (assign variable in if condition) The walrus operator :=](til/python-assignment-in-expression.md)
