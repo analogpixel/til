@@ -73,6 +73,7 @@ Cut space delimiter work like AWK,til/cut-work-like-awk.md
 Bash Case statement,til/bash-case-statement.md
 Ansible console a repl for ansible,til/ansible-console.md
 FZF Select multiple items from list in fzf,til/fzf-multiple-from-list.md
+Python pretty print a dict/hash,til/python-pretty-print-dict.md
 Vim Jump to your last change,til/vim-jump-to-last-change.md
 Python run a command and get the output,til/python-run-a-command.md
 X remap caps lock to ctrl,til/x-remap-caps-key.md
