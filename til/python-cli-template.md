@@ -12,9 +12,11 @@ import os.path
 if __name__ == '__main__':
 
     # load app configuration
-    config_path =os.path.expanduser("~/.app_config.toml")
-    if os.path.exists( config_path ):
-        config = toml.load( config_path) 
+    for p in [".blog_parser.toml", "~/.blog_parser.toml"]:
+        config_path =os.path.expanduser(p)
+        if os.path.exists( config_path ):
+            config = toml.load( config_path) 
+            break
 
     # parse arguments
     parser = argparse.ArgumentParser()
