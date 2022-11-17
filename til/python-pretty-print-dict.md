@@ -14,3 +14,11 @@ you can also use the [pretty print module](https://docs.python.org/3.8/library/p
 import pprint
 pprint.pprint( blog_data)
 ```
+
+or a little easier:
+
+```python
+from pprint import pprint as pp
+
+pp( blog_data )
+```
