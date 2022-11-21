@@ -127,6 +127,7 @@ How I quickly find stuff in this repo via the header:
 ## Macos
 - [Macos hide all windows](til/macos-hide-all-windows.md)
 - [Macos Font smoothing](til/macos-font-smoothing.md)
+- [Macos disable apple music from starting](til/macos-disable-apple-music.md)
 - [Macos find process listening on port](til/macos-find-listening-port.md)
 ## Math
 - [Math polar to cartesian](til/math-polar-to-caresian.md)
