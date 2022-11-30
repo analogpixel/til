@@ -124,6 +124,7 @@ Ansible Dump out all the host inventory,til/ansible-dump-host-inventory.md
 Vim Sessions,til/vim-sessions.md
 Awk random number in range,til/awk-random-range.md
 Bash Loop till string is empty,til/bash-loop-untill-empty.md
+kubernetes mount single file with subpath,til/kubernetes-volume-subpath.md
 Python Load Variables from Environmental Variables,til/python-load-vars-from-environ-vars.md
 Rclone mount cloud drives,til/rclone-mount-cloud-drives.md
 Kind Using your Own docker login with Kind,til/kind-use-docker-login.md
