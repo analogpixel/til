@@ -3,7 +3,9 @@ How I quickly find stuff in this repo via the header:
 
 `alias til='cat /path/to/til/.search | fzf -d "," --with-nth 1 | cat /path/to/til/$(awk -F, {"print \$2"})'`
 
- ## Affinity
+ ## Add
+- [Add (calculate on) a file of numbers ( paste: bash version of join )](til/bash-paste-add-file-of-numbers.md)
+## Affinity
 - [Affinity Designer coloring tutorial](til/afinity_designer-vectorize.md)
 ## Ansible
 - [Ansible load a variable dynamically from another host](til/ansible-load-var-from-another-host.md)
