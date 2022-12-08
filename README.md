@@ -172,6 +172,7 @@ How I quickly find stuff in this repo via the header:
 - [Python working with CSV files](til/python-csv-files.md)
 - [Python pretty print a dict/hash](til/python-pretty-print-dict.md)
 - [Python run a command and get the output](til/python-run-a-command.md)
+- [Python read in a matrix](til/python-read-in-matrix.md)
 - [Python define required modules to install from file](til/python-modules-requirementstxt.md)
 - [Python expand tilde in path](til/python-expand-unix-path.md)
 - [Python Date and Time](til/python-date-time.md)

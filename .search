@@ -77,6 +77,7 @@ FZF Select multiple items from list in fzf,til/fzf-multiple-from-list.md
 Python pretty print a dict/hash,til/python-pretty-print-dict.md
 Vim Jump to your last change,til/vim-jump-to-last-change.md
 Python run a command and get the output,til/python-run-a-command.md
+Python read in a matrix,til/python-read-in-matrix.md
 X remap caps lock to ctrl,til/x-remap-caps-key.md
 GIT get root directory of repo,til/git-top-level.md
 Python define required modules to install from file,til/python-modules-requirementstxt.md
