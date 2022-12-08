@@ -160,6 +160,7 @@ How I quickly find stuff in this repo via the header:
 - [Prometheus-operator Pod Monitors vs. Service Monitors](til/kubernetes_operator-podmonitor-vs-servicemonitor.md)
 ## Python
 - [Python play a sound in macos](til/python-play-sound-macos.md)
+- [Python environment boolean variable](til/python-environmental-booleans.md)
 - [Python convert case](til/python-convert-case.md)
 - [Python Overriding __init__](til/python-override-init.md)
 - [Python a functional decimal to hex conversion](til/python-decimal-to-hex.md)
