@@ -159,6 +159,7 @@ How I quickly find stuff in this repo via the header:
 ## Prometheus-operator
 - [Prometheus-operator Pod Monitors vs. Service Monitors](til/kubernetes_operator-podmonitor-vs-servicemonitor.md)
 ## Python
+- [Python custom sort comparator](til/python-custom-comparator.md)
 - [Python play a sound in macos](til/python-play-sound-macos.md)
 - [Python environment boolean variable](til/python-environmental-booleans.md)
 - [Python convert case](til/python-convert-case.md)
