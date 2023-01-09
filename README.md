@@ -99,6 +99,7 @@ How I quickly find stuff in this repo via the header:
 ## Java
 - [Java check if NaN](til/java-nan.md)
 ## Javascript
+- [Javascript seconds since epoch](til/javascript-seconds-since-epoc.md)
 - [Javascript Code Between Imports](til/javascript-code-between-imports.md)
 - [Javascript sort numbers](til/javascript-sort-numbers.md)
 ## Json
