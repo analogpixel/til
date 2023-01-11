@@ -208,6 +208,8 @@ How I quickly find stuff in this repo via the header:
 - [Ruby in juptyer notebooks](til/ruby-jupyter-notebook.md)
 ## Rust
 - [Rust debug print a variable](til/rust-debug-print.md)
+## Slack
+- [Slack bolt python ack a message](til/slack-bolt-ack-message.md)
 ## Sqlite
 - [Sqlite csv query](til/sqlite-csv-query.md)
 ## Ssh
