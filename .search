@@ -24,6 +24,7 @@ Bash Yes/No Prompt,til/bash-yes-no-prompt.md
 Openssl create signing cert (csr),til/openssl-create-csr.md
 Firefox extensios,til/firefox-extension.md
 Python Overriding __init__,til/python-override-init.md
+Bash check if ip is in subnet range,til/bash-check-ip-in-range.md
 SSH Debugging a conneciton,til/ssh-debug-connection.md
 CLI Remote pbcopy (remote data to local clipboard),til/cli-remote-pbcopy.md
 Curl resolve hostname to different IP,til/curl-resolve-to-differnt-ip.md
