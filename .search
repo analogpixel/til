@@ -94,6 +94,7 @@ Bash Lock File with Flock,til/bash-lockfile-with-flock.md
 Bash run actual command and not alias,til/bash-run-command-not-alias.md
 Ansible template task to run a role,til/ansible-template-task-role.md
 RaspberyPi automount usb drives,til/raspberrypi-automount-volume.md
+Vim wrap text at 80 characters,til/vim-wrap-at-80.md
 Python Date and Time,til/python-date-time.md
 prometheus operator blackbox probes,til/prometheus-operator-blackbox-probes.md
 P5.js dynamic mask,til/p5js-dynamic-mask.md
