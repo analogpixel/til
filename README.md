@@ -11,6 +11,7 @@ How I quickly find stuff in this repo via the header:
 - [Ansible load a variable dynamically from another host](til/ansible-load-var-from-another-host.md)
 - [Ansible adhoc command](til/ansible-adhoc-command.md)
 - [Ansible console a repl for ansible](til/ansible-console.md)
+- [Ansible Constructed Inventories (dynamic)](til/ansible-constructed-inventories.md)
 - [Ansible template task to run a role](til/ansible-template-task-role.md)
 - [Ansible Run Task From Role](til/ansible-run-task-from-role.md)
 - [Ansible create a random password](til/ansible-create-random-password.md)
