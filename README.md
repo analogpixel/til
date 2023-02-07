@@ -32,6 +32,7 @@ How I quickly find stuff in this repo via the header:
 - [Bash export yaml var file as environmental variables](til/bash-kubernetes-var-file-export-env.md)
 - [Bash last command exit status](til/bash-last-proc-exit-status.md)
 - [Bash Yes/No Prompt](til/bash-yes-no-prompt.md)
+- [Bash range expansion with xargs and ssh](til/bash-range-expansion-ssh.md)
 - [Bash check if ip is in subnet range](til/bash-check-ip-in-range.md)
 - [Bash ping test](til/bash-ping-test.md)
 - [Bash variable defaults :- vs :=](til/bash-variable-defaults.md)
