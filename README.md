@@ -18,6 +18,7 @@ How I quickly find stuff in this repo via the header:
 - [Ansible Dump out all the host inventory](til/ansible-dump-host-inventory.md)
 - [Ansible debugger](til/ansible-debugger.md)
 - [Ansible Dry Run (check)](til/ansible-dry-run.md)
+- [Ansible append to a fact](til/ansible-append-to-fact.md)
 - [Ansible display rendered inventory](til/ansible-display-rendered-inventory.md)
 ## Awk
 - [AWK How to clean up logs with Java Stack Traces in them](til/awk-trim-java-stack-trace-logs.md)

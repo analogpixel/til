@@ -146,6 +146,7 @@ Ansible Dry Run (check),til/ansible-dry-run.md
 Firefox browser.storage.local,til/firefox-browser-storage-local.md
 Python set theory,til/python-set-theory.md
 FZF show ansi colors,til/fzf-show-ansi-colors.md
+Ansible append to a fact,til/ansible-append-to-fact.md
 Kubernetes pod placement,til/kubernetes-pod-placement.md
 Affinity Designer coloring tutorial,til/afinity_designer-vectorize.md
 Python Add or Update to a list in a dict,til/python-add_update_list_in_dict.md
