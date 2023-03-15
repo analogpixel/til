@@ -210,6 +210,8 @@ How I quickly find stuff in this repo via the header:
 - [Rclone mount cloud drives](til/rclone-mount-cloud-drives.md)
 ## Rpm
 - [RPM Fix Corrupt database](til/rpm-fix-corrupt-database.md)
+## Rsa
+- [RSA convert exponent modulus to regular private key format](til/rsa-convert-exponent-modulus.md)
 ## Ruby
 - [Ruby in juptyer notebooks](til/ruby-jupyter-notebook.md)
 ## Rust
