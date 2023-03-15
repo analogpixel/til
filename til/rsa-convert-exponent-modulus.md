@@ -10,3 +10,7 @@ n = int('17511980105770600912132402909011876847887523739859829720349565976815023
 print( RSA.construct( ( n, e ) ).publickey().exportKey().decode('utf8') )
 
 ```
+
+## links
+https://stackoverflow.com/questions/40094108/i-have-a-rsa-public-key-exponent-and-modulus-how-can-i-encrypt-a-string-using-p
+https://stackoverflow.com/questions/27568570/how-to-convert-raw-modulus-exponent-to-rsa-public-key-pem-format
