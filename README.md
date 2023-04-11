@@ -91,6 +91,7 @@ How I quickly find stuff in this repo via the header:
 - [Git remove files from staging  (local commit)](til/git-remove-from-staging.md)
 - [Git Detect if you are in git repo](til/git-detect-in-repo.md)
 - [GIT revert a file from master](til/git-revert-file-from-master.md)
+- [git reset your master](til/git-reset-master.md)
 - [GIT get root directory of repo](til/git-top-level.md)
 - [Git Log](til/git-log.md)
 ## Google
