@@ -33,6 +33,7 @@ How I quickly find stuff in this repo via the header:
 - [Bash test](til/bash-test.md)
 - [Bash export yaml var file as environmental variables](til/bash-kubernetes-var-file-export-env.md)
 - [Bash creating gifs with ffmpeg and gifsicle](til/bash-creating-gifs.md)
+- [Bash create a temporary file handle that can be passed as input to another command](til/bash-command-to-filehandle.md)
 - [Bash last command exit status](til/bash-last-proc-exit-status.md)
 - [Bash Yes/No Prompt](til/bash-yes-no-prompt.md)
 - [Bash range expansion with xargs and ssh](til/bash-range-expansion-ssh.md)
