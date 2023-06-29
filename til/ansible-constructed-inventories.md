@@ -59,3 +59,4 @@ inventories to work from.
 
 ## links
 - https://stackoverflow.com/questions/71353557/how-to-properly-build-an-ansible-inventory
+- https://www.lutro.me/posts/complex-groups-in-ansible-using-the-constructed-inventory-plugin
