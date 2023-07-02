@@ -183,6 +183,7 @@ How I quickly find stuff in this repo via the header:
 - [Python functional programming](til/python-functional-programming.md)
 - [Python Dictionary Comprehension](til/python-dictionary-comprehension.md)
 - [Python enumerate indexed foreach](til/python-enumerate-indexed-foreach.md)
+- [Python return value when list is empty during pop](til/python-pop-empty-value.md)
 - [Python Install jupyterhub](til/python-jupyerhub-install.md)
 - [Python bitwise operators](til/python-bitwise-operators.md)
 - [Python Change working directory (cwd)](til/python-change-working-directory.md)
