@@ -15,6 +15,7 @@ kubernetes list all api resources in cluster,til/kubernetes-list-all-api-resourc
 FZF Only display certain columns,til/fzf-only-display-x-col.md
 Bash export yaml var file as environmental variables,til/bash-kubernetes-var-file-export-env.md
 Editing Guitar Tabs in Vim,til/vim-edit-guitar-tabs.md
+SQL replace null values,til/sql-replace-null-values.md
 Math polar to cartesian,til/math-polar-to-caresian.md
 Python convert case,til/python-convert-case.md
 Bash creating gifs with ffmpeg and gifsicle,til/bash-creating-gifs.md
@@ -152,6 +153,7 @@ Ansible Dry Run (check),til/ansible-dry-run.md
 Firefox browser.storage.local,til/firefox-browser-storage-local.md
 Python set theory,til/python-set-theory.md
 FZF show ansi colors,til/fzf-show-ansi-colors.md
+kubernetes changelogs,til/kubernetes-changelogs.md
 Ansible append to a fact,til/ansible-append-to-fact.md
 Kubernetes pod placement,til/kubernetes-pod-placement.md
 Affinity Designer coloring tutorial,til/afinity_designer-vectorize.md

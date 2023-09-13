@@ -16,6 +16,7 @@ search_file = []
 groups = {}
 for f in glob.glob("til/*.md"):
     first_line = open(f, "r").readlines()[0][1:].strip()
+    print(f,first_line, first_line.split())
     category = first_line.split()[0].lower()
     groups.setdefault( category, [] ).append({"file": f, "title": first_line})
     search_file.append("{},{}".format(first_line, f))

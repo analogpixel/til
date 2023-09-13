@@ -136,6 +136,7 @@ How I quickly find stuff in this repo via the header:
 - [Kubernetes explain](til/kubectl-explain.md)
 - [kubernetes mount single file with subpath](til/kubernetes-volume-subpath.md)
 - [kubernetes watch kubectl output](til/kubernetes-watch-kubectl.md)
+- [kubernetes changelogs](til/kubernetes-changelogs.md)
 - [Kubernetes pod placement](til/kubernetes-pod-placement.md)
 - [Kubernetes pod life cycle start/stop hooks](til/kubernetes-life-cycle.md)
 - [kubernetes host aliases (/etc/hosts)](til/kubernetes-host-aliases.md)
@@ -223,6 +224,8 @@ How I quickly find stuff in this repo via the header:
 - [Rust debug print a variable](til/rust-debug-print.md)
 ## Slack
 - [Slack bolt python ack a message](til/slack-bolt-ack-message.md)
+## Sql
+- [SQL replace null values](til/sql-replace-null-values.md)
 ## Sqlite
 - [Sqlite csv query](til/sqlite-csv-query.md)
 ## Ssh
