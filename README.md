@@ -130,6 +130,7 @@ How I quickly find stuff in this repo via the header:
 - [Kubernetes service and pod dns names](til/kubernetes-service-and-pod-dns.md)
 - [kubernetes diff 2 manifest files](til/kubernetes-diff-manifests.md)
 - [kubernetes roll out new image](til/kubernetes-roll-out-new-image.md)
+- [kubernetes get all objects in a namespace](til/kubernetes-get-all-objects-in-namespace.md)
 - [kubernetes Job](til/kubernetes-job.md)
 - [Kubernetes load a ssl cert into secrets](til/kubernetes-ssl-cert.md)
 - [Kubernetes health probes](til/kubernetes-health-probes.md)
