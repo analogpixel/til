@@ -119,6 +119,7 @@ kubectl forward a port to your local machine,til/kubectl-port-forward.md
 Clojure reload file in repl,til/clojure-repl-reload-file.md
 Chezmoi dotfile manager,til/chezmoi-dotfile-manager.md
 Misc Vesa Mounting Standards,til/misc-vesa-mounting-standards.md
+SSH socks proxy server,til/ssh-socks-proxy.md
 Ansible omit/remove module parameter if variable is null,til/ansible-omit-variable-options.md
 Python create a directory (create parents),til/python-create-a-directory.md
 Kubernetes health probes,til/kubernetes-health-probes.md

@@ -231,6 +231,7 @@ How I quickly find stuff in this repo via the header:
 - [Sqlite csv query](til/sqlite-csv-query.md)
 ## Ssh
 - [SSH Debugging a conneciton](til/ssh-debug-connection.md)
+- [SSH socks proxy server](til/ssh-socks-proxy.md)
 ## Systemd
 - [Systemd clean up journalctl logs](til/systemd-cleanup-journalctl-logs.md)
 - [Systemd Debug tmp cleaner](til/systemd-debug-tmp-cleaner.md)
