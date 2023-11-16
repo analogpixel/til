@@ -82,6 +82,7 @@ Java check if NaN,til/java-nan.md
 Rust debug print a variable,til/rust-debug-print.md
 Math Properties of Exponents,til/math-properties-of-exponents.md
 Python working with CSV files,til/python-csv-files.md
+Bash loop over lines and get columns,til/bash-loop-lines.md
 Cut space delimiter work like AWK,til/cut-work-like-awk.md
 Bash Case statement,til/bash-case-statement.md
 Ansible console a repl for ansible,til/ansible-console.md
