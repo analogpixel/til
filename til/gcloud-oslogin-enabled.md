@@ -2,4 +2,4 @@
 
 Check which machines are running oslogin:
 
-`gcloud compute instances list --filter=“metadata.items.key[‘enable-oslogin’][‘value’]=‘true’”`
+`gcloud compute instances list --filter="metadata.items.key['enable-oslogin']['value']=true"`
