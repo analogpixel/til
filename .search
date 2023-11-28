@@ -127,6 +127,7 @@ Kubernetes health probes,til/kubernetes-health-probes.md
 Python print string unformatted,til/python-print-unformatted.md
 Javascript Code Between Imports,til/javascript-code-between-imports.md
 Bash echo no newline,til/bash-echo-no-newline.md
+gcloud check is oslogin is enabled.,til/gcloud-oslogin-enabled.md
 P5.js set size to window size,til/p5js-set-size-of-window.md
 Linux stop respawning initd service,til/linux-stop-respawning-initd-service.md
 Ansible Run Task From Role,til/ansible-run-task-from-role.md
