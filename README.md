@@ -92,6 +92,7 @@ How I quickly find stuff in this repo via the header:
 - [FZF show ansi colors](til/fzf-show-ansi-colors.md)
 ## Gcloud
 - [gcloud check is oslogin is enabled.](til/gcloud-oslogin-enabled.md)
+- [gcloud container registry list images filter by tag name](til/gcloud-filter-tags.md)
 ## Git
 - [Git remove files from staging  (local commit)](til/git-remove-from-staging.md)
 - [Git Detect if you are in git repo](til/git-detect-in-repo.md)
