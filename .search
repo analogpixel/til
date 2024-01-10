@@ -14,6 +14,7 @@ Bash test,til/bash-test.md
 kubernetes list all api resources in cluster,til/kubernetes-list-all-api-resources.md
 FZF Only display certain columns,til/fzf-only-display-x-col.md
 Bash export yaml var file as environmental variables,til/bash-kubernetes-var-file-export-env.md
+tools for working with jupyer notebooks from the cli,til/python-nbcommands.md
 Editing Guitar Tabs in Vim,til/vim-edit-guitar-tabs.md
 SQL replace null values,til/sql-replace-null-values.md
 Math polar to cartesian,til/math-polar-to-caresian.md
