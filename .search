@@ -161,6 +161,7 @@ Python set theory,til/python-set-theory.md
 FZF show ansi colors,til/fzf-show-ansi-colors.md
 kubernetes changelogs,til/kubernetes-changelogs.md
 Ansible append to a fact,til/ansible-append-to-fact.md
+view markdown in the terminal,til/bash-terminal-markdown.md
 Kubernetes pod placement,til/kubernetes-pod-placement.md
 Affinity Designer coloring tutorial,til/afinity_designer-vectorize.md
 RSA convert exponent modulus to regular private key format,til/rsa-convert-exponent-modulus.md

@@ -246,6 +246,8 @@ How I quickly find stuff in this repo via the header:
 - [Tello change wifi mode](til/tello-change-wifi-mode.md)
 ## Tools
 - [tools for working with jupyer notebooks from the cli](til/python-nbcommands.md)
+## View
+- [view markdown in the terminal](til/bash-terminal-markdown.md)
 ## Vim
 - [Vim Tabs](til/vim-tabs.md)
 - [Vim add to openwith in macos](til/vim-add-to-openwith-macos.md)
