@@ -95,6 +95,7 @@ Vim Jump to your last change,til/vim-jump-to-last-change.md
 Python run a command and get the output,til/python-run-a-command.md
 Ansible Constructed Inventories (dynamic),til/ansible-constructed-inventories.md
 Python read in a matrix,til/python-read-in-matrix.md
+atuin sqlite shell history,til/bash-atuin.md
 Slack bolt python ack a message,til/slack-bolt-ack-message.md
 X remap caps lock to ctrl,til/x-remap-caps-key.md
 GIT get root directory of repo,til/git-top-level.md
