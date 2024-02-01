@@ -110,6 +110,8 @@ How I quickly find stuff in this repo via the header:
 - [Grafana show all annotations](til/grafana-show-all-annotations.md)
 ## Grep
 - [Grep show regex matches](til/grep-show-regex-matches.md)
+## Http
+- [http x-forwarded-host redirection](til/networking-x-forwarded-host.md)
 ## Iterm2
 - [ITerm2 duplicate tab](til/iterm-duplicate-tab.md)
 ## Java

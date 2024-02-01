@@ -27,6 +27,7 @@ P5.JS perfect gif loop,til/p5js-perfect-gif-loop.md
 Bash Yes/No Prompt,til/bash-yes-no-prompt.md
 Openssl create signing cert (csr),til/openssl-create-csr.md
 Bash range expansion with xargs and ssh,til/bash-range-expansion-ssh.md
+http x-forwarded-host redirection,til/networking-x-forwarded-host.md
 Firefox extensios,til/firefox-extension.md
 Python Overriding __init__,til/python-override-init.md
 Bash check if ip is in subnet range,til/bash-check-ip-in-range.md
