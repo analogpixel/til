@@ -231,6 +231,8 @@ How I quickly find stuff in this repo via the header:
 - [RSA convert exponent modulus to regular private key format](til/rsa-convert-exponent-modulus.md)
 ## Ruby
 - [Ruby in juptyer notebooks](til/ruby-jupyter-notebook.md)
+## Running
+- [running a heap dump in java](til/java-heap-dump.md)
 ## Rust
 - [Rust debug print a variable](til/rust-debug-print.md)
 ## Slack
