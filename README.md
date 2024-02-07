@@ -269,6 +269,8 @@ How I quickly find stuff in this repo via the header:
 ## X
 - [X rotate the screen](til/x-rotate-screen.md)
 - [X remap caps lock to ctrl](til/x-remap-caps-key.md)
+## Yaml
+- [yaml anchors](til/yaml-anchors.md)
 ## Zookeeper
 - [Zookeeper Check if alive](til/zookepper-check-alive.md)
 ---

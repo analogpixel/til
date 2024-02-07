@@ -195,5 +195,6 @@ Vim clipboard history,til/vim-clipboard-history.md
 Python Converting a list to a dict,til/python-dict-from-list.md
 Ansible display rendered inventory,til/ansible-display-rendered-inventory.md
 Python format a string (fstring),til/python-format-string.md
+yaml anchors,til/yaml-anchors.md
 Kubernetes pod life cycle start/stop hooks,til/kubernetes-life-cycle.md
 kubernetes host aliases (/etc/hosts),til/kubernetes-host-aliases.md
