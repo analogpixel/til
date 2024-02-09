@@ -68,6 +68,8 @@ How I quickly find stuff in this repo via the header:
 - [Clojure reload file in repl](til/clojure-repl-reload-file.md)
 - [Clojure working with sequences](til/clojure-sequences.md)
 - [Clojure database access sqlite/jdbc](til/clojure-database-access.md)
+## Comm,
+- [comm, select or reject lines common to two files](til/bash-comm.md)
 ## Css
 - [CSS Selector Reference](til/css-selectors.md)
 ## Curl

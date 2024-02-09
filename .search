@@ -62,6 +62,7 @@ Python return value when list is empty during pop,til/python-pop-empty-value.md
 Ansible Debugging,til/ansible-debugging.md
 RaspberryPi firefox,til/raspberrypi-firefox.md
 X rotate the screen,til/x-rotate-screen.md
+comm, select or reject lines common to two files,til/bash-comm.md
 Azure grow centos disk,til/azure-grow-centos-disk.md
 Python Install jupyterhub,til/python-jupyerhub-install.md
 Javascript seconds since epoch,til/javascript-seconds-since-epoc.md
