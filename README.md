@@ -192,6 +192,7 @@ How I quickly find stuff in this repo via the header:
 - [Python convert case](til/python-convert-case.md)
 - [Python Overriding __init__](til/python-override-init.md)
 - [Python a functional decimal to hex conversion](til/python-decimal-to-hex.md)
+- [Python dataclasses (c like struct)](til/python-struct-dataclass.md)
 - [Python webserver mode](til/python-web-server.md)
 - [Python logging](til/python-logging.md)
 - [Python functional programming](til/python-functional-programming.md)

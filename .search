@@ -41,6 +41,7 @@ Bash ping test,til/bash-ping-test.md
 Prometheus-operator Pod Monitors vs. Service Monitors,til/kubernetes_operator-podmonitor-vs-servicemonitor.md
 Python a functional decimal to hex conversion,til/python-decimal-to-hex.md
 Add (calculate on) a file of numbers ( paste: bash version of join ),til/bash-paste-add-file-of-numbers.md
+Python dataclasses (c like struct),til/python-struct-dataclass.md
 Git Detect if you are in git repo,til/git-detect-in-repo.md
 Python webserver mode,til/python-web-server.md
 kubernetes list cluster versions,til/kubectl-list-cluster-versions.md
