@@ -16,6 +16,7 @@ How I quickly find stuff in this repo via the header:
 - [Ansible template task to run a role](til/ansible-template-task-role.md)
 - [Ansible omit/remove module parameter if variable is null](til/ansible-omit-variable-options.md)
 - [Ansible Run Task From Role](til/ansible-run-task-from-role.md)
+- [Ansible backup files](til/ansible-backup-files.md)
 - [Ansible create a random password](til/ansible-create-random-password.md)
 - [Ansible Dump out all the host inventory](til/ansible-dump-host-inventory.md)
 - [Ansible debugger](til/ansible-debugger.md)
