@@ -1,0 +1,4 @@
+# Calculate the distance between points
+
+some programming languages have the `hypot` function that can
+be used to calculate the distance from (0,0) to (x,y)
