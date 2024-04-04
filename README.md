@@ -239,6 +239,8 @@ How I quickly find stuff in this repo via the header:
 - [running a heap dump in java](til/java-heap-dump.md)
 ## Rust
 - [Rust debug print a variable](til/rust-debug-print.md)
+## Sending
+- [Sending a message to google chat in curl](til/googlechat-send-message.md)
 ## Slack
 - [Slack bolt python ack a message](til/slack-bolt-ack-message.md)
 ## Sql
