@@ -121,7 +121,7 @@ FZF Return default value if user exits with esc/ctrl-c,til/fzf-default-value-on-
 kubernetes Job,til/kubernetes-job.md
 Bash replace a block of text,til/bash-replace-block-of-text.md
 Git Log,til/git-log.md
-running a heap dump in java,til/java-heap-dump.md
+Java running a heap dump,til/java-heap-dump.md
 Grafana show all annotations,til/grafana-show-all-annotations.md
 Kubernetes load a ssl cert into secrets,til/kubernetes-ssl-cert.md
 Prometheus alertmanager send test alert,til/prometheus-alertmanager-send-test.md
@@ -170,7 +170,7 @@ Python set theory,til/python-set-theory.md
 FZF show ansi colors,til/fzf-show-ansi-colors.md
 kubernetes changelogs,til/kubernetes-changelogs.md
 Ansible append to a fact,til/ansible-append-to-fact.md
-view markdown in the terminal,til/bash-terminal-markdown.md
+Bash view markdown in the terminal,til/bash-terminal-markdown.md
 Kubernetes pod placement,til/kubernetes-pod-placement.md
 Affinity Designer coloring tutorial,til/afinity_designer-vectorize.md
 RSA convert exponent modulus to regular private key format,til/rsa-convert-exponent-modulus.md

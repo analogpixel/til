@@ -53,6 +53,7 @@ How I quickly find stuff in this repo via the header:
 - [Bash echo no newline](til/bash-echo-no-newline.md)
 - [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
 - [Bash pause/stop output](til/bash-pause-output.md)
+- [Bash view markdown in the terminal](til/bash-terminal-markdown.md)
 - [Bash split string by column separator](til/bash-split-string-column.md)
 - [Bash Loop over comma](til/bash-loop-over-comma.md)
 - [Bash Convert CSV list to JSON array](til/bash-csv-list-to-json-array.md)
@@ -121,6 +122,7 @@ How I quickly find stuff in this repo via the header:
 - [ITerm2 duplicate tab](til/iterm-duplicate-tab.md)
 ## Java
 - [Java check if NaN](til/java-nan.md)
+- [Java running a heap dump](til/java-heap-dump.md)
 ## Javascript
 - [Javascript seconds since epoch](til/javascript-seconds-since-epoc.md)
 - [Javascript Code Between Imports](til/javascript-code-between-imports.md)
@@ -237,8 +239,6 @@ How I quickly find stuff in this repo via the header:
 - [RSA convert exponent modulus to regular private key format](til/rsa-convert-exponent-modulus.md)
 ## Ruby
 - [Ruby in juptyer notebooks](til/ruby-jupyter-notebook.md)
-## Running
-- [running a heap dump in java](til/java-heap-dump.md)
 ## Rust
 - [Rust debug print a variable](til/rust-debug-print.md)
 ## Sending
@@ -262,8 +262,6 @@ How I quickly find stuff in this repo via the header:
 - [Tello change wifi mode](til/tello-change-wifi-mode.md)
 ## Tools
 - [tools for working with jupyer notebooks from the cli](til/python-nbcommands.md)
-## View
-- [view markdown in the terminal](til/bash-terminal-markdown.md)
 ## Vim
 - [Vim Tabs](til/vim-tabs.md)
 - [Vim add to openwith in macos](til/vim-add-to-openwith-macos.md)
