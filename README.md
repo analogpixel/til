@@ -125,6 +125,8 @@ How I quickly find stuff in this repo via the header:
 - [Javascript seconds since epoch](til/javascript-seconds-since-epoc.md)
 - [Javascript Code Between Imports](til/javascript-code-between-imports.md)
 - [Javascript sort numbers](til/javascript-sort-numbers.md)
+## Jq
+- [JQ object expansion](til/jq-object-expand.md)
 ## Json
 - [JSON gron the grepper for json](til/json-gron-cli-utility.md)
 ## Justfile

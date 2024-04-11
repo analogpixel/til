@@ -95,6 +95,7 @@ Ansible console a repl for ansible,til/ansible-console.md
 FZF Select multiple items from list in fzf,til/fzf-multiple-from-list.md
 Python pretty print a dict/hash,til/python-pretty-print-dict.md
 Vim Jump to your last change,til/vim-jump-to-last-change.md
+JQ object expansion,til/jq-object-expand.md
 Python run a command and get the output,til/python-run-a-command.md
 Ansible Constructed Inventories (dynamic),til/ansible-constructed-inventories.md
 Python read in a matrix,til/python-read-in-matrix.md
