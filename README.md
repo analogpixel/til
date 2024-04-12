@@ -88,6 +88,8 @@ How I quickly find stuff in this repo via the header:
 - [Editing Guitar Tabs in Vim](til/vim-edit-guitar-tabs.md)
 ## Entr
 - [Entr reload a program or script on file changes](til/entr-reload-program-on-file-change.md)
+## Exercism
+- [Exercism download all from track](til/exercism-download-all.md)
 ## Firefox
 - [Firefox extensios](til/firefox-extension.md)
 - [Firefox browser.storage.local](til/firefox-browser-storage-local.md)
@@ -128,6 +130,7 @@ How I quickly find stuff in this repo via the header:
 - [Javascript Code Between Imports](til/javascript-code-between-imports.md)
 - [Javascript sort numbers](til/javascript-sort-numbers.md)
 ## Jq
+- [JQ examples](til/jq-examples.md)
 - [JQ object expansion](til/jq-object-expand.md)
 ## Json
 - [JSON gron the grepper for json](til/json-gron-cli-utility.md)

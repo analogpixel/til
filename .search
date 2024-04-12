@@ -78,6 +78,7 @@ Raspberry Pi Disable Wifi,til/raspberrypi-disable-wifi.md
 NMAP scripts,til/nmap-scripts.md
 CLI subnet calculator,til/cli-subnet-calculator.md
 Get password from onepassword in python,til/python-onepassword.md
+JQ examples,til/jq-examples.md
 kubernetes roll out new image,til/kubernetes-roll-out-new-image.md
 git reset your master,til/git-reset-master.md
 Vim add to openwith in macos,til/vim-add-to-openwith-macos.md
@@ -172,6 +173,7 @@ kubernetes changelogs,til/kubernetes-changelogs.md
 Ansible append to a fact,til/ansible-append-to-fact.md
 Bash view markdown in the terminal,til/bash-terminal-markdown.md
 Kubernetes pod placement,til/kubernetes-pod-placement.md
+Exercism download all from track,til/exercism-download-all.md
 Affinity Designer coloring tutorial,til/afinity_designer-vectorize.md
 RSA convert exponent modulus to regular private key format,til/rsa-convert-exponent-modulus.md
 Python Add or Update to a list in a dict,til/python-add_update_list_in_dict.md
