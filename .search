@@ -30,6 +30,7 @@ Bash range expansion with xargs and ssh,til/bash-range-expansion-ssh.md
 http x-forwarded-host redirection,til/networking-x-forwarded-host.md
 Firefox extensios,til/firefox-extension.md
 Python Overriding __init__,til/python-override-init.md
+Flask Console Output in kubernetes with python,til/flask-console-output.md
 Bash check if ip is in subnet range,til/bash-check-ip-in-range.md
 SSH Debugging a conneciton,til/ssh-debug-connection.md
 CLI Remote pbcopy (remote data to local clipboard),til/cli-remote-pbcopy.md

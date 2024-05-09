@@ -93,6 +93,8 @@ How I quickly find stuff in this repo via the header:
 ## Firefox
 - [Firefox extensios](til/firefox-extension.md)
 - [Firefox browser.storage.local](til/firefox-browser-storage-local.md)
+## Flask
+- [Flask Console Output in kubernetes with python](til/flask-console-output.md)
 ## Fzf
 - [FZF Only display certain columns](til/fzf-only-display-x-col.md)
 - [FZF Select multiple items from list in fzf](til/fzf-multiple-from-list.md)
