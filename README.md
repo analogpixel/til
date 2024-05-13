@@ -228,6 +228,7 @@ How I quickly find stuff in this repo via the header:
 - [Python remove non-characters from string](til/python-remove-non-alpha-characters.md)
 - [Python Sqlite](til/python-sqlite.md)
 - [Python Assignment in Expression (assign variable in if condition) The walrus operator :=](til/python-assignment-in-expression.md)
+- [Python socks proxy support](til/python-socks-proxy.md)
 - [Python Converting a list to a dict](til/python-dict-from-list.md)
 - [Python format a string (fstring)](til/python-format-string.md)
 ## Raspberry

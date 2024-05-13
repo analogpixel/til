@@ -198,6 +198,7 @@ Python Assignment in Expression (assign variable in if condition) The walrus ope
 Blender HDRI files,til/blender-hdri-file.md
 Clojure database access sqlite/jdbc,til/clojure-database-access.md
 Docker Build Args,til/docker-builds-args.md
+Python socks proxy support,til/python-socks-proxy.md
 Macos find process listening on port,til/macos-find-listening-port.md
 Vim clipboard history,til/vim-clipboard-history.md
 Python Converting a list to a dict,til/python-dict-from-list.md
