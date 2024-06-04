@@ -240,6 +240,8 @@ How I quickly find stuff in this repo via the header:
 - [RaspberyPi automount usb drives](til/raspberrypi-automount-volume.md)
 ## Rclone
 - [Rclone mount cloud drives](til/rclone-mount-cloud-drives.md)
+## Regex
+- [Regex named character sets](til/regex-named-characters-sets.md)
 ## Rpm
 - [RPM Fix Corrupt database](til/rpm-fix-corrupt-database.md)
 ## Rsa

@@ -57,6 +57,7 @@ RPM Fix Corrupt database,til/rpm-fix-corrupt-database.md
 Ansible adhoc command,til/ansible-adhoc-command.md
 Python Dictionary Comprehension,til/python-dictionary-comprehension.md
 Misc How to Unsubscribe from ...,til/misc-unsubscribe-from.md
+Regex named character sets,til/regex-named-characters-sets.md
 Kubernetes service and pod dns names,til/kubernetes-service-and-pod-dns.md
 Curl Set Header Values,til/curl-set-headers.md
 Python enumerate indexed foreach,til/python-enumerate-indexed-foreach.md
