@@ -52,6 +52,7 @@ How I quickly find stuff in this repo via the header:
 - [Bash replace a block of text](til/bash-replace-block-of-text.md)
 - [Bash echo no newline](til/bash-echo-no-newline.md)
 - [Bash Loop till string is empty](til/bash-loop-untill-empty.md)
+- [Bash loop over command output](til/bash-loop-command-output.md)
 - [Bash pause/stop output](til/bash-pause-output.md)
 - [Bash view markdown in the terminal](til/bash-terminal-markdown.md)
 - [Bash split string by column separator](til/bash-split-string-column.md)
