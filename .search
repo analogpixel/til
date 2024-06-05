@@ -128,6 +128,7 @@ Java running a heap dump,til/java-heap-dump.md
 Grafana show all annotations,til/grafana-show-all-annotations.md
 Kubernetes load a ssl cert into secrets,til/kubernetes-ssl-cert.md
 Prometheus alertmanager send test alert,til/prometheus-alertmanager-send-test.md
+Firefox reduce motion setting,til/firfox-reduce-motion.md
 kubectl forward a port to your local machine,til/kubectl-port-forward.md
 Clojure reload file in repl,til/clojure-repl-reload-file.md
 Chezmoi dotfile manager,til/chezmoi-dotfile-manager.md

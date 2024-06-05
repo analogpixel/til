@@ -93,6 +93,7 @@ How I quickly find stuff in this repo via the header:
 - [Exercism download all from track](til/exercism-download-all.md)
 ## Firefox
 - [Firefox extensios](til/firefox-extension.md)
+- [Firefox reduce motion setting](til/firfox-reduce-motion.md)
 - [Firefox browser.storage.local](til/firefox-browser-storage-local.md)
 ## Flask
 - [Flask Console Output in kubernetes with python](til/flask-console-output.md)
