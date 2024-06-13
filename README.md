@@ -168,6 +168,7 @@ How I quickly find stuff in this repo via the header:
 ## Linux
 - [Linux stop respawning initd service](til/linux-stop-respawning-initd-service.md)
 ## Macos
+- [Macos plaintext paste by default](til/macos-disable-paste-formatting.md)
 - [Macos hide all windows](til/macos-hide-all-windows.md)
 - [Macos Font smoothing](til/macos-font-smoothing.md)
 - [Macos disable apple music from starting](til/macos-disable-apple-music.md)
