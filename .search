@@ -125,6 +125,7 @@ FZF Return default value if user exits with esc/ctrl-c,til/fzf-default-value-on-
 kubernetes Job,til/kubernetes-job.md
 Bash replace a block of text,til/bash-replace-block-of-text.md
 Git Log,til/git-log.md
+Python get nested JSON/dict key from path,til/python-json-key.md
 Java running a heap dump,til/java-heap-dump.md
 Grafana show all annotations,til/grafana-show-all-annotations.md
 Kubernetes load a ssl cert into secrets,til/kubernetes-ssl-cert.md

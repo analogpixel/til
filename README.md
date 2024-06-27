@@ -222,6 +222,7 @@ How I quickly find stuff in this repo via the header:
 - [Python define required modules to install from file](til/python-modules-requirementstxt.md)
 - [Python expand tilde in path](til/python-expand-unix-path.md)
 - [Python Date and Time](til/python-date-time.md)
+- [Python get nested JSON/dict key from path](til/python-json-key.md)
 - [Python create a directory (create parents)](til/python-create-a-directory.md)
 - [Python print string unformatted](til/python-print-unformatted.md)
 - [Python Load Variables from Environmental Variables](til/python-load-vars-from-environ-vars.md)
