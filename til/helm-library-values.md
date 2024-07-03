@@ -13,8 +13,7 @@ version: 0.1.0
 appVersion: "1.16.0"
 ```
 
-not the difference between the normal chart and the library chart is the type field. The type field is set to library for library charts.
-
+note the difference between the normal chart and the library chart is the type field. The type field is set to library for library charts.
 now, edit the values.yaml file and add the following content:
 
 ```yaml
