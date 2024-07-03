@@ -122,6 +122,8 @@ How I quickly find stuff in this repo via the header:
 - [Grafana show all annotations](til/grafana-show-all-annotations.md)
 ## Grep
 - [Grep show regex matches](til/grep-show-regex-matches.md)
+## Helm
+- [HELM library chart values](til/helm-library-values.md)
 ## Http
 - [http x-forwarded-host redirection](til/networking-x-forwarded-host.md)
 ## Iterm2
